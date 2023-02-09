@@ -1,0 +1,645 @@
+Timestamp,Gender,Use,Woody ,Option 1,Spicy ,Option 2,Floral,Option 3,Gourmand,Option 4,Akuatik,Option 5,Fruity,Option 6,"Komposisi
+",Max,Index,Category
+24/10/2022 12:17:02,Perempuan,Ya,3,Kayu Manis,3,Rumput - rumputan,4,Lily,4,Popcorn,4,Air laut,4,Lemon,Vanilla,22,1,Feminim
+25/10/2022 19:18:22,Laki - Laki,Ya,3,Kayu Manis,3,Cengkeh,3,Melati,3,Permen,3,Air laut,3,Lemon,One direction,18,1,Feminim
+25/10/2022 19:19:58,Laki - Laki,Ya,3,Kayu Manis,5,Lada,4,Melati,5,Cokelat,4,Air laut,5,Jeruk,Mint,26,1,Feminim
+25/10/2022 19:20:45,Laki - Laki,Ya,5,Kayu Cendana,5,Lada,5,Melati,5,Cokelat,5,Air laut,5,Jeruk,Mint,30,1,Feminim
+25/10/2022 19:24:10,Perempuan,Ya,3,Kayu Manis,4,Rumput - rumputan,4,Lily,3,Popcorn,4,Air laut,4,Jeruk,"Jeruk, vanila dan rose",22,1,Feminim
+25/10/2022 19:25:48,Perempuan,Ya,3,Kayu Manis,3,Cengkeh,4,Lily,4,Permen,2,,5,Melon,Aroma buah melon ,21,1,Feminim
+25/10/2022 19:36:08,Laki - Laki,Ya,4,Kayu Gaharu,3,Cengkeh,3,Lily,5,Cokelat,3,Air laut,5,Lemon,"Vanilla,coklat",23,1,Feminim
+25/10/2022 19:48:44,Perempuan,Ya,3,Kayu Manis,3,Cengkeh,3,Lily,4,Permen,4,Sungai ganggang,4,Jeruk,coklat,21,1,Feminim
+25/10/2022 19:49:55,Perempuan,Ya,4,Kayu Manis,4,Cengkeh,4,Sedap Malam,4,Popcorn,5,Air laut,5,Semangka,rose,26,1,Feminim
+25/10/2022 19:50:39,Perempuan,Ya,3,Kayu Cendana,4,Cengkeh,4,Lily,4,Cokelat,4,Sungai ganggang,4,Lemon,jasmine,23,1,Feminim
+25/10/2022 19:57:43,Perempuan,Ya,2,Kayu Cendana,2,Rumput - rumputan,2,Melati,5,Permen,5,Sungai ganggang,5,Jeruk,Apel,21,1,Feminim
+25/10/2022 19:57:46,Perempuan,Ya,4,Kayu Cendana,3,Cengkeh,4,Lily,2,Permen,3,Air laut,3,Jeruk,Scarlet,19,1,Feminim
+25/10/2022 19:58:08,Perempuan,Ya,3,Kayu Manis,4,Rumput - rumputan,4,Lily,4,Permen,4,Air laut,4,Lemon,rose,23,1,Feminim
+25/10/2022 19:58:58,Laki - Laki,Ya,3,Kayu Cendana,2,Cengkeh,3,Melati,3,Cokelat,5,Air laut,4,Jeruk,vanilla,20,1,Feminim
+25/10/2022 20:02:04,Perempuan,Ya,3,Kayu Cendana,3,Rumput - rumputan,5,Lily,4,Permen,4,Sungai ganggang,4,Jeruk,Jerul,23,1,Feminim
+25/10/2022 20:03:46,Perempuan,Ya,2,Kayu Manis,3,Rumput - rumputan,4,Lily,4,Cokelat,4,Sungai ganggang,5,Jeruk,vanilla,22,1,Feminim
+25/10/2022 20:10:24,Perempuan,Ya,4,Kayu Gaharu,5,Cengkeh,5,Lily,5,Popcorn,2,Air laut,5,Semangka,"Bluberry, zaitun",26,1,Feminim
+25/10/2022 20:11:15,Perempuan,Ya,4,Kayu Cendana,2,Rumput - rumputan,5,Melati,2,Permen,2,Air laut,3,Semangka,"Berry, melati",18,1,Feminim
+25/10/2022 20:12:13,Perempuan,Ya,2,Kayu Cendana,3,Rumput - rumputan,3,Lily,3,Popcorn,2,Sungai ganggang,2,Semangka,Apel,15,0,Maskulin
+25/10/2022 20:12:19,Perempuan,Ya,4,Kayu Manis,2,Cengkeh,5,Melati,5,Popcorn,4,Air laut,5,Lemon,Vanilla,25,1,Feminim
+25/10/2022 20:16:26,Perempuan,Ya,2,Kayu Gaharu,2,Rumput - rumputan,4,Peony,4,Vanila,4,Sungai ,5,Mentimun,"Apel, rose, vanila, amber",21,1,Feminim
+25/10/2022 21:00:13,Perempuan,Ya,5,Kayu manis,3,Rumput - rumputan,5,Melati,5,Cokelat,5,Sungai ganggang,5,Semangka,Vanilla,28,1,Feminim
+25/10/2022 21:06:11,Perempuan,Ya,3,Kayu Cendana,2,Cengkeh,3,Melati,5,Cokelat,4,Sungai ganggang,5,Lemon,Vanilla,22,1,Feminim
+25/10/2022 21:07:34,Perempuan,Ya,4,Kayu Manis,5,Lada,5,Melati,3,Cokelat,4,Sungai ganggang,4,Jeruk,Vanilla,25,1,Feminim
+25/10/2022 21:26:35,Perempuan,Ya,4,Kayu Gaharu,4,Rumput - rumputan,2,Lily,3,Permen,3,Air laut,3,Jeruk,dll,19,1,Feminim
+25/10/2022 21:28:08,Perempuan,Ya,4,Kayu Cendana,5,Cengkeh,5,Lily,4,Permen,5,Air laut,5,Jeruk,-,28,1,Feminim
+25/10/2022 21:31:41,Perempuan,Ya,4,Kayu Cendana,5,Rumput - rumputan,5,Lily,2,Popcorn,5,Sungai ganggang,5,Semangka,Apel,26,1,Feminim
+25/10/2022 21:33:16,Perempuan,Ya,2,Kayu Manis,2,Rumput - rumputan,2,Melati,4,Permen,2,Sungai ganggang,2,Jeruk,Vanilla,14,0,Maskulin
+25/10/2022 21:36:12,Perempuan,Ya,3,Kayu Manis,3,Rumput - rumputan,3,Lily,3,Popcorn,5,Air garam,3,Semangka,Vanilla,20,1,Feminim
+25/10/2022 21:49:17,Perempuan,Ya,3,Kayu Cendana,3,Cengkeh,4,Lily,5,Permen,3,Air laut,4,Jeruk,Permen jeruk,22,1,Feminim
+26/10/2022 6:01:58,Perempuan,Ya,3,Kayu Cendana,4,Rumput - rumputan,4,Lily,2,Cokelat,3,Air laut,3,Jeruk,Vanilla,19,1,Feminim
+26/10/2022 12:48:08,Perempuan,Ya,2,Kayu Cendana,1,Lada,4,Melati,2,Popcorn,2,Air laut,5,Lemon,"Lemon,melati dll",16,1,Feminim
+26/10/2022 13:26:47,Laki - Laki,Ya,3,Kayu Gaharu,4,Rumput - rumputan,3,Sedap Malam,3,Popcorn,5,Air garam,3,,Aqualis,21,1,Feminim
+26/10/2022 16:41:08,Laki - Laki,Ya,1,Kayu Cendana,1,Cengkeh,4,Lily,5,Permen,1,Air laut,5,Jeruk,axe,17,1,Feminim
+26/10/2022 21:43:14,Perempuan,Ya,4,Kayu Cendana,4,Rumput - rumputan,4,Melati,4,Permen,4,Sungai ganggang,4,Lemon,Rose,24,1,Feminim
+26/10/2022 21:44:01,Perempuan,Ya,3,Kayu Manis,3,Lada,4,Sedap Malam,4,Popcorn,3,Air laut,3,Semangka,Coklat dan karamel,20,1,Feminim
+26/10/2022 21:47:28,Perempuan,Ya,5,Kayu Gaharu,5,Cengkeh,5,Sedap Malam,5,Cokelat,5,Air laut,5,Jeruk,Cupcake ,30,1,Feminim
+26/10/2022 21:48:13,Perempuan,Ya,4,Kayu Cendana,4,Rumput - rumputan,4,Melati,4,Cokelat,4,Air laut,4,Lemon,Sweet ice cream,24,1,Feminim
+26/10/2022 21:48:55,Perempuan,Ya,4,Kayu Cendana,4,Rumput - rumputan,4,Melati,4,Permen,4,Sungai ganggang,4,Semangka,Warm vanilla,24,1,Feminim
+26/10/2022 21:49:33,Perempuan,Ya,4,Kayu Manis,4,Lada,4,Lily,4,Popcorn,5,Sungai ganggang,4,Lemon,Milky candy,25,1,Feminim
+26/10/2022 21:50:18,Perempuan,Ya,4,Kayu Cendana,4,Rumput - rumputan,4,Melati,5,Permen,4,Air laut,4,Semangka,Sweet cookies,25,1,Feminim
+26/10/2022 21:51:34,Laki - Laki,Ya,3,Kayu Manis,3,Cengkeh,4,Melati,4,Cokelat,4,Air laut,4,Lemon,Aqua,22,1,Feminim
+26/10/2022 21:52:05,Perempuan,Ya,5,Kayu Gaharu,5,Cengkeh,5,Sedap Malam,5,Permen,4,Air laut,4,Lemon,Vanilla,28,1,Feminim
+26/10/2022 21:52:34,Perempuan,Ya,4,Kayu Cendana,4,Rumput - rumputan,4,Melati,4,Cokelat,4,Air laut,4,Lemon,Jasmine,24,1,Feminim
+26/10/2022 21:53:00,Perempuan,Ya,4,Kayu Cendana,4,Lada,4,Lily,4,Popcorn,4,Air laut,4,Lemon,Vanilla,24,1,Feminim
+26/10/2022 21:53:29,Perempuan,Ya,4,Kayu Cendana,4,Rumput - rumputan,4,Melati,4,Popcorn,4,Air laut,4,Semangka,Rose,24,1,Feminim
+26/10/2022 21:54:20,Perempuan,Ya,4,Kayu Manis,4,Rumput - rumputan,4,Melati,5,Cokelat,4,Air laut,4,Timun,Timun,25,1,Feminim
+26/10/2022 22:04:07,Perempuan,Ya,4,Kayu Cendana,4,Rumput - rumputan,4,Lily,4,Popcorn,4,Sungai ganggang,5,Lemon,Apel dll,25,1,Feminim
+26/10/2022 22:04:46,Perempuan,Ya,4,Kayu Cendana,5,Rumput - rumputan,5,Melati,5,Cokelat,5,Sungai ganggang,5,Lemon,Fruits,29,1,Feminim
+26/10/2022 22:05:18,Perempuan,Ya,5,Kayu Cendana,4,Rumput - rumputan,4,Melati,4,Permen,5,Air laut,4,Lemon,Rose,26,1,Feminim
+26/10/2022 22:05:48,Perempuan,Ya,4,Kayu Cendana,5,Cengkeh,5,Melati,5,Permen,5,Sungai ganggang,5,Lemon,Vanilla,29,1,Feminim
+26/10/2022 22:06:19,Perempuan,Ya,5,Kayu Cendana,4,Cengkeh,4,Melati,4,Popcorn,5,Air laut,4,Lemon,Coklat,26,1,Feminim
+26/10/2022 22:07:14,Perempuan,Ya,4,Kayu Cendana,4,Cengkeh,4,Melati,5,Cokelat,3,Air laut,3,Lemon,Lemon dan vanilla,23,1,Feminim
+26/10/2022 22:08:10,Perempuan,Ya,4,Kayu Cendana,4,Rumput - rumputan,5,Melati,4,Permen,4,Air laut,4,Jeruk,Karamel,25,1,Feminim
+26/10/2022 22:10:15,Perempuan,Ya,4,Kayu Cendana,4,Rumput - rumputan,4,Melati,5,Permen,4,Air laut,4,Jeruk,Rose,25,1,Feminim
+26/10/2022 22:11:08,Perempuan,Ya,2,Kayu Manis,3,Cengkeh,4,Lily,4,Permen,4,Air laut,4,Lemon,Bublegum dan vanilla dll,21,1,Feminim
+26/10/2022 22:12:17,Laki - Laki,Ya,5,Kayu Cendana,5,Cengkeh,2,Sedap Malam,3,Cokelat,4,Air laut,4,Lemon,Coklat,23,1,Feminim
+26/10/2022 22:14:00,Perempuan,Ya,5,Kayu Cendana,5,Rumput - rumputan,5,Melati,5,Popcorn,5,Sungai ganggang,5,Lemon,"Fruit, coklat, rose ",30,1,Feminim
+26/10/2022 22:15:19,Perempuan,Ya,3,Kayu Cendana,3,Rumput - rumputan,4,Lily,4,Cokelat,4,Air laut,4,Semangka,Vanillla dan raspberry,22,1,Feminim
+26/10/2022 22:16:07,Perempuan,Ya,4,Kayu Cendana,4,Rumput - rumputan,4,Lily,4,Permen,5,Air laut,4,Lemon,Gourmand,25,1,Feminim
+26/10/2022 22:17:19,Laki - Laki,Ya,4,Kayu Gaharu,2,Rumput - rumputan,3,Lily,3,Cokelat,4,Air laut,4,Jeruk,Coklat,20,1,Feminim
+26/10/2022 22:18:11,Perempuan,Ya,4,Kayu Cendana,2,Cengkeh,4,Melati,4,Cokelat,4,Sungai ganggang,4,Lemon,Lemon dan Vanilla,22,1,Feminim
+26/10/2022 22:19:08,Perempuan,Ya,3,Kayu Manis,2,Cengkeh,5,Melati,5,Cokelat,3,Air laut,5,Lemon,Jasmine,23,1,Feminim
+26/10/2022 22:19:33,Perempuan,Ya,4,Kayu Cendana,4,Rumput - rumputan,4,Sedap Malam,4,Cokelat,4,Air laut,4,Jeruk,Vanilla,24,1,Feminim
+26/10/2022 22:20:14,Perempuan,Ya,4,Kayu Cendana,4,Cengkeh,5,Melati,5,Cokelat,5,Air laut,5,Jeruk,Coklaaattt,28,1,Feminim
+26/10/2022 22:21:34,Perempuan,Ya,4,Kayu Cendana,5,Rumput - rumputan,4,Melati,4,Cokelat,4,Air laut,4,Lemon,Rose,25,1,Feminim
+26/10/2022 22:22:08,Perempuan,Ya,4,Kayu Cendana,4,Rumput - rumputan,5,Melati,5,Cokelat,4,Air laut,5,Lemon,Karamel dan vanilla,27,1,Feminim
+26/10/2022 22:22:39,Perempuan,Ya,3,Kayu Cendana,4,Rumput - rumputan,4,Lily,5,Permen,4,Air laut,4,Lemon,Melati dan vanilla,24,1,Feminim
+26/10/2022 22:23:21,Perempuan,Ya,4,Kayu Cendana,4,Rumput - rumputan,4,Sedap Malam,4,Popcorn,4,Sungai ganggang,4,Semangka,Strawberry milk,24,1,Feminim
+26/10/2022 22:24:08,Perempuan,Ya,4,Kayu Cendana,3,Rumput - rumputan,4,Lily,4,Permen,4,Air laut,4,Lemon,Vanilla,23,1,Feminim
+26/10/2022 22:24:49,Perempuan,Ya,4,Kayu Cendana,4,Rumput - rumputan,4,Lily,4,Cokelat,4,Air laut,4,Strawberry,Strawberry,24,1,Feminim
+26/10/2022 22:25:41,Perempuan,Ya,3,Kayu Cendana,4,Cengkeh,4,Melati,4,Permen,4,Air laut,5,Lemon,Apel,24,1,Feminim
+26/10/2022 22:26:17,Perempuan,Ya,5,Kayu Manis,5,Cengkeh,3,Sedap Malam,3,Cokelat,3,Air laut,3,Lemon,Woody,22,1,Feminim
+26/10/2022 22:30:16,Perempuan,Ya,3,Kayu Cendana,3,Cengkeh,5,Lily,5,Cokelat,,Air laut,4,Lemon,Coklat,20,1,Feminim
+26/10/2022 23:28:56,Laki - Laki,Ya,5,Kayu Manis,5,Rumput - rumputan,5,Sedap Malam,5,Cokelat,5,Sungai ganggang,5,Semangka,Buah naga Ã°Å¸Â¤Â£,30,1,Feminim
+26/10/2022 23:58:42,Perempuan,Ya,3,Kayu Cendana,2,Rumput - rumputan,5,sakura,5,Permen,3,hujan,5,strawberry,macaron,23,1,Feminim
+27/10/2022 7:16:22,Laki - Laki,Ya,4,Kayu Manis,3,Rumput - rumputan,5,Melati,4,Cokelat,5,Air laut,5,mangga,floral,26,1,Feminim
+27/10/2022 10:07:35,Laki - Laki,Ya,4,Kayu Manis,4,Cengkeh,5,Melati,4,Popcorn,4,Air laut,5,Lemon,,26,1,Feminim
+27/10/2022 10:28:34,Perempuan,Ya,3,Kayu Manis,1,Lada,4,Lily,2,Popcorn,5,Air laut,5,Lemon,Vanilla,20,1,Feminim
+27/10/2022 11:39:24,Laki - Laki,Ya,4,Kayu Manis,4,Cengkeh,4,Sedap Malam,1,Popcorn,4,Sungai ganggang,5,Lemon,"Cardamon, clove, patchouli indonesia",22,1,Feminim
+27/10/2022 12:04:31,Laki - Laki,Ya,3,Kayu Cendana,2,Lada,3,Lily,4,Permen,3,Sungai ganggang,5,Jeruk,"cendana, citrus, geranium",20,1,Feminim
+27/10/2022 20:51:50,Perempuan,Ya,3,Kayu Cendana,3,Cengkeh,3,Melati,3,Permen,3,Air laut,3,Lemon,Sakura,18,1,Feminim
+27/10/2022 22:16:01,Perempuan,Ya,3,Kayu Cendana,2,Lada,5,Melati,4,Cokelat,3,Air laut,4,Jeruk,Peach,21,1,Feminim
+28/10/2022 10:06:03,Laki - Laki,Ya,4,Kayu Cendana,5,Cengkeh,5,Lily,4,Permen,3,Sungai ganggang,5,Lemon,Vanilla,26,1,Feminim
+31/10/2022 12:50:48,Laki - Laki,Ya,4,Kayu Cendana,2,Rumput - rumputan,4,Lily,2,Permen,4,Air laut,4,Jeruk,Orange,20,1,Feminim
+31/10/2022 12:55:21,Perempuan,Ya,4,Kayu Manis,4,Rumput - rumputan,4,Melati,1,Cokelat,4,Air laut,4,Semangka,Apel,21,1,Feminim
+31/10/2022 12:56:12,Perempuan,Ya,4,Kayu Manis,4,Lada,5,Melati,4,Permen,3,Air laut,4,Jeruk,"fruitphany, vaniluxe",24,1,Feminim
+31/10/2022 13:17:03,Perempuan,,4,Kayu Manis,3,Cengkeh,4,Lily,,,3,Air garam,4,Semangka,Mawar,18,1,Feminim
+31/10/2022 13:21:50,Perempuan,Ya,3,Kayu Manis,4,Lada,5,Melati,4,Permen,4,Air laut,5,Lemon,Bunga lavender,25,1,Feminim
+31/10/2022 13:27:22,Perempuan,Ya,3,Kayu Gaharu,1,Pala,5,Mawar,5,Permen,4,Air payau,5,Semangka,"Vanilla,permen karet,",23,1,Feminim
+31/10/2022 14:21:30,Laki - Laki,Ya,3,Kayu Cendana,3,Kapulaga,5,Lily,2,Popcorn,5,Sungai ganggang,5,nanas,"mawar, vanila. Dll",23,1,Feminim
+31/10/2022 14:29:48,Laki - Laki,Ya,1,Kayu Cendana,2,Rumput - rumputan,2,Lily,5,Popcorn,3,Sungai ganggang,2,Jeruk,Vanilla,15,0,Maskulin
+31/10/2022 19:01:28,Perempuan,Ya,3,Kayu Manis,4,Rumput - rumputan,5,Lily,3,Popcorn,2,Sungai ganggang,5,Semangka,Vanila,22,1,Feminim
+31/10/2022 19:26:07,Perempuan,Ya,2,Kayu Manis,1,Rumput - rumputan,5,Mawar,4,Cokelat,4,Air laut,5,Lemon,"Mawar, lemon",21,1,Feminim
+3/11/2022 10:34,Perempuan,Ya,4,Kayu Cendana,3,Rumput - rumputan,3,Melati,3,Popcorn,4,Air laut,4,Semangka,Vanilla,21,1,Feminim
+3/11/2022 10:35,Perempuan,Ya,3,Kayu Manis,4,Lada,4,Lily,4,,3,Air laut,4,Lemon,Raspberry dll,22,1,Feminim
+3/11/2022 10:36,Perempuan,Ya,3,Kayu Manis,3,Rumput - rumputan,4,Lily,4,Popcorn,3,Air laut,4,Jeruk,Calandra,21,1,Feminim
+3/11/2022 10:37,Perempuan,Ya,3,Kayu Manis,3,Lada,3,Lily,3,Popcorn,3,Air laut,3,Semangka,Berry,18,1,Feminim
+3/11/2022 10:37,Laki - Laki,Ya,3,Kayu Cendana,3,Rumput - rumputan,3,Melati,3,Permen,3,Sungai ganggang,3,Lemon,Strawberry,18,1,Feminim
+3/11/2022 10:38,Perempuan,Ya,4,Kayu Gaharu,4,Cengkeh,4,Sedap Malam,4,Cokelat,4,Air garam,4,Jeruk,Coklat ,24,1,Feminim
+3/11/2022 10:44,Laki - Laki,Ya,2,Kayu Manis,2,Cengkeh,3,Melati,5,Permen,2,Sungai ganggang,4,Semangka,Vanilla,18,1,Feminim
+3/11/2022 10:48,Laki - Laki,Ya,,,,,,,,,,,,,Lemon scent,0,0,Maskulin
+3/11/2022 10:51,Perempuan,Ya,,,,,,,,,,,,,musk,0,0,Maskulin
+3/11/2022 10:52,Perempuan,Ya,4,Kayu Cendana,3,Rumput - rumputan,4,Sedap Malam,3,Permen,4,Air laut,4,Semangka,"fruity, melon, apel ",22,1,Feminim
+3/11/2022 10:54,Laki - Laki,Ya,,,,,,,5,Permen,,,,,Permen karet ,5,0,Maskulin
+3/11/2022 10:57,Laki - Laki,Ya,,,,,,,,Cokelat,,,,,,0,0,Maskulin
+3/11/2022 10:58,Perempuan,Ya,,,,,,,,,,,,,orris,0,0,Maskulin
+3/11/2022 11:01,Laki - Laki,Ya,1,Kayu Gaharu,1,Lada,1,Lily,2,Cokelat,1,,1,Jeruk,Vanilla,7,0,Maskulin
+3/11/2022 11:01,Perempuan,,,,,,2,Melati,,,,,,,,2,0,Maskulin
+3/11/2022 11:02,Perempuan,Ya,,,,,,,,,,,2,Lemon,,2,0,Maskulin
+3/11/2022 11:03,Laki - Laki,Ya,3,Kayu Gaharu,3,Rumput - rumputan,3,Melati,3,Permen,3,Sungai ganggang,3,Lemon,Lemon,18,1,Feminim
+3/11/2022 11:04,Laki - Laki,Ya,,,,,,,,,,,3,Jeruk,,3,0,Maskulin
+3/11/2022 11:06,Laki - Laki,Ya,,,3,Etienne aigner,,,,,,,,,,3,0,Maskulin
+3/11/2022 11:07,Laki - Laki,Ya,,,5,Burberry,,,,,,,,,,5,0,Maskulin
+3/11/2022 11:09,Perempuan,Ya,3,Kayu Manis,4,Lada,5,Melati,,Cokelat,5,Air garam,5,Lemon,jeruk,22,1,Feminim
+3/11/2022 11:09,Perempuan,Ya,,,,,,,,,,,,,citrus,0,0,Maskulin
+3/11/2022 11:11,Laki - Laki,Ya,4,Kayu Manis,,,,,,,,,,,,4,0,Maskulin
+3/11/2022 11:11,Laki - Laki,Ya,,,,,3,Lily,,,,,,,,3,0,Maskulin
+3/11/2022 11:13,Perempuan,Ya,,,,,2,Lily,,,,,,,,2,0,Maskulin
+3/11/2022 11:14,Perempuan,Ya,4,Kayu Manis,2,Rumput - rumputan,4,Sedap Malam,3,Permen,3,Air laut,4,Jeruk,Izzi,20,1,Feminim
+3/11/2022 11:18,Laki - Laki,Ya,3,Kayu Cendana,,,,,,,,,,,,3,0,Maskulin
+3/11/2022 11:22,Laki - Laki,Ya,5,Kayu Gaharu,4,Rumput - rumputan,5,Melati,4,Permen,4,Sungai ganggang,4,Lemon,Apel,26,1,Feminim
+3/11/2022 11:37,Perempuan,Ya,3,Kayu Cendana,3,Cengkeh,3,Lily,3,Popcorn,3,Air laut,3,Lemon,vanilla,18,1,Feminim
+3/11/2022 11:38,Perempuan,Ya,2,Kayu Manis,2,Cengkeh,4,Melati,4,Permen,3,Air laut,5,Jambu,Flower ,20,1,Feminim
+3/11/2022 11:38,Perempuan,Ya,4,Kayu Manis,3,,5,Lily,5,Permen,3,Air laut,5,Semangka,"vanilla, woody",25,1,Feminim
+3/11/2022 11:38,Perempuan,Ya,4,Kayu Gaharu,3,Rumput - rumputan,5,Lily,4,Permen,4,Air laut,3,Lemon,"Lily, kayu manis",23,1,Feminim
+3/11/2022 11:39,Perempuan,Ya,4,Kayu Cendana,4,Cengkeh,4,Lily,5,Permen,4,Air laut,5,Jeruk,Vanila,26,1,Feminim
+3/11/2022 11:40,Perempuan,Ya,3,Kayu Manis,2,Rumput - rumputan,4,Lily,3,Permen,4,Air laut,3,Semangka,Vanila,19,1,Feminim
+3/11/2022 11:42,Perempuan,Ya,3,Kayu Gaharu,4,Cengkeh,5,lavender,4,Cokelat,4,Air laut,5,Lemon,Vanila,25,1,Feminim
+3/11/2022 11:42,Perempuan,Ya,3,Kayu Manis,4,Cengkeh,4,Lily,5,Cokelat,2,Air garam,,Bengkoang,Vanilla,18,1,Feminim
+3/11/2022 11:44,Laki - Laki,Ya,5,Kayu Gaharu,3,Cengkeh,5,Melati,4,Permen,2,Sungai ganggang,4,Lemon,Vanilla,23,1,Feminim
+3/11/2022 11:49,Laki - Laki,Ya,5,Kayu Manis,,,,,,,,,,,Kayu manis ,5,0,Maskulin
+3/11/2022 11:49,Perempuan,Ya,,,,,,,,Cokelat,,,,,Pop corn vanila,0,0,Maskulin
+3/11/2022 11:50,Perempuan,,,,,,,,,,,,5,Jeruk,Fress jeruk,5,0,Maskulin
+3/11/2022 11:50,Laki - Laki,Ya,4,Kayu Manis,3,Cengkeh,5,Melati,4,Popcorn,5,Air laut,5,Jeruk,"Citrus,kayu manis,vanilla",26,1,Feminim
+3/11/2022 12:08,Perempuan,Ya,4,Kayu Manis,2,Rumput - rumputan,5,Melati,5,Permen,3,Sungai ganggang,5,Semangka,Vanila,24,1,Feminim
+3/11/2022 12:12,Perempuan,Ya,3,floral,2,Cengkeh,5,Lily,4,Cokelat,1,Sungai ganggang,4,Lemon,vanila,19,1,Feminim
+3/11/2022 12:30,Laki - Laki,Ya,4,Kayu Cendana,4,Rumput - rumputan,4,Sedap Malam,4,Permen,5,Sungai ganggang,5,Semangka,Vanilla,26,1,Feminim
+3/11/2022 13:17,Laki - Laki,Ya,5,Kayu Cendana,5,Cengkeh,5,Melati,5,Permen,5,Sungai ganggang,5,Lemon,,30,1,Feminim
+3/11/2022 14:22,Laki - Laki,Ya,,,,,,,,,,,,,Patchouli,0,0,Maskulin
+3/11/2022 14:49,Perempuan,Ya,4,Kayu Cendana,2,Cengkeh,5,Lily,4,Permen,4,Air laut,4,Jeruk,"Vanila, cokelat",23,1,Feminim
+3/11/2022 15:36,Laki - Laki,Ya,2,Kayu Manis,1,Lada,5,Lily,1,Cokelat,5,Air laut,5,Lemon,"Alcohol, aqua, fragrance, propelene glycol, hydrogenated castrol oil, ci 42090",19,1,Feminim
+3/11/2022 19:03,Perempuan,Ya,3,Kayu Manis,2,Rumput - rumputan,5,Lily,2,Permen,3,Air laut,5,Semangka,Floral,20,1,Feminim
+3/11/2022 21:42,Perempuan,Ya,4,Kayu Manis,3,Cengkeh,4,Sedap Malam,4,Popcorn,3,Air laut,4,Semangka,Vanilla,22,1,Feminim
+3/11/2022 22:54,Perempuan,Ya,4,Kayu Cendana,2,Cengkeh,5,Mawar,5,Cokelat,5,Air laut,3,Pear,"Peach, Red Berries, Rose, Violet, Cedar Wood, Vanilla, Musk",24,1,Feminim
+3/11/2022 23:36,Perempuan,Ya,3,Kayu Cendana,2,Cengkeh,5,"Bunga bakung gunung, geranium, mawar, melati",3,Permen,3,Air laut,5,Semua jenis Berry,"Bunga bakung gunung, geranium, mawar, melati, cinnamon, dll",21,1,Feminim
+4/11/2022 14:09,Perempuan,Ya,,,,,,,,,,,3,Jeruk,,3,0,Maskulin
+4/11/2022 14:09,Perempuan,Ya,,,,,,,,,,,,,Vanilla,0,0,Maskulin
+4/11/2022 14:22,Laki - Laki,Ya,,,,,,,,,,,,,Dhark chocolate,0,0,Maskulin
+4/11/2022 14:25,Perempuan,Ya,,,,,,,,,,,,,"Chery
+",0,0,Maskulin
+4/11/2022 14:31,Perempuan,Ya,,,,,4,Viola,,,,,,,,4,0,Maskulin
+4/11/2022 14:34,Perempuan,Ya,,,,,,,,,,,2,Peach,,2,0,Maskulin
+4/11/2022 14:46,Laki - Laki,Ya,3,Kayu Gaharu,,,,,,,,,,,,3,0,Maskulin
+4/11/2022 14:47,Laki - Laki,Ya,,,,,,,,,,,,,Mint,0,0,Maskulin
+4/11/2022 15:16,Perempuan,Ya,,,,,,,,,,,,,pear ,0,0,Maskulin
+11/11/2022 9:51,Perempuan,Ya,4,Kayu Manis,3,Rumput - rumputan,3,Sedap Malam,3,Cokelat,4,Air garam,4,Jeruk,Vanilla ,21,1,Feminim
+11/11/2022 9:51,Perempuan,Ya,3,Kayu Cendana,2,Cengkeh,3,Lily,3,Popcorn,3,Air laut,4,Semangka,Apel,18,1,Feminim
+11/11/2022 9:52,Perempuan,Ya,4,Kayu Cendana,3,Lada,3,Lily,2,Permen,4,Air laut,4,Semangka,Mawar ,20,1,Feminim
+11/11/2022 9:53,Perempuan,Ya,3,Kayu Manis,3,Cengkeh,4,Lily,3,Popcorn,2,Air garam,4,Semangka,Vanilla ,19,1,Feminim
+11/11/2022 9:54,Perempuan,Ya,2,Kayu Manis,3,Lada,3,Lily,2,Permen,2,Air laut,2,Lemon,Vanilla,14,0,Maskulin
+11/11/2022 9:54,Perempuan,Ya,4,Kayu Manis,3,Cengkeh,3,Lily,4,Permen,4,Air garam,4,Semangka,Vanilla,22,1,Feminim
+11/11/2022 14:30,Perempuan,Ya,2,Kayu Gaharu,3,Lada,2,Lily,2,Popcorn,2,Sungai ganggang,2,Semangka,Vanilla ,13,0,Maskulin
+11/11/2022 14:30,Perempuan,Ya,3,Kayu Manis,2,Rumput - rumputan,4,Sedap Malam,4,Cokelat,3,Air laut,2,Semangka,Apel,18,1,Feminim
+11/11/2022 14:31,Perempuan,Ya,2,Kayu Manis,2,Lada,2,Lily,3,Popcorn,2,Air garam,4,Jeruk,Vanilla ,15,0,Maskulin
+11/11/2022 14:31,Laki - Laki,Ya,2,Kayu Cendana,4,Rumput - rumputan,2,Lily,2,Cokelat,3,Air laut,3,Lemon,Apel ,16,1,Feminim
+11/11/2022 14:32,Perempuan,Ya,3,Kayu Manis,4,Cengkeh,4,Lily,4,Cokelat,4,Sungai ganggang,4,Semangka,Vanilla,23,1,Feminim
+11/11/2022 14:33,Perempuan,Ya,4,Kayu Manis,3,Lada,3,Lily,2,Popcorn,4,Air garam,3,Semangka,Vanilla ,19,1,Feminim
+11/11/2022 14:33,Perempuan,Ya,3,Kayu Manis,4,Rumput - rumputan,4,Melati,4,Popcorn,3,Air laut,5,Jeruk,Vanilla,23,1,Feminim
+11/11/2022 14:33,Perempuan,Ya,2,Kayu Cendana,2,Rumput - rumputan,3,Sedap Malam,1,Popcorn,3,Sungai ganggang,1,Lemon,Vanilla,12,0,Maskulin
+11/11/2022 14:34,Perempuan,Ya,2,Kayu Manis,2,Cengkeh,3,Lily,5,Popcorn,4,Air laut,4,Semangka,Vanilla,20,1,Feminim
+11/11/2022 14:34,Perempuan,Ya,2,Kayu Manis,2,Rumput - rumputan,2,Melati,1,Permen,1,Air laut,1,Lemon,Vanilla,9,0,Maskulin
+11/11/2022 14:35,Perempuan,Ya,1,Kayu Manis,2,Lada,2,Melati,2,Permen,2,Sungai ganggang,2,Lemon,Vanilla,11,0,Maskulin
+11/11/2022 14:35,Laki - Laki,Ya,3,Kayu Gaharu,3,Cengkeh,2,Sedap Malam,3,Permen,3,Sungai ganggang,3,Semangka,Cinnamon,17,1,Feminim
+11/11/2022 14:36,Perempuan,Ya,2,Kayu Cendana,2,Lada,1,Melati,2,Popcorn,2,Air laut,1,Lemon,Vanilla,10,0,Maskulin
+11/11/2022 14:36,Perempuan,Ya,2,Kayu Manis,2,Lada,2,Lily,2,Cokelat,3,Air garam,3,Semangka,Vanilla,14,0,Maskulin
+11/11/2022 14:37,Perempuan,Tidak,3,Kayu Gaharu,5,Rumput - rumputan,2,Melati,3,Cokelat,4,Air garam,4,Jeruk,Vanilla,21,1,Feminim
+11/11/2022 14:37,Perempuan,Ya,3,Kayu Gaharu,2,Rumput - rumputan,4,Lily,,Cokelat,4,Air laut,4,Lemon,Vanilla,17,1,Feminim
+11/11/2022 14:37,Perempuan,Ya,2,Kayu Manis,3,Lada,2,Lily,2,Popcorn,2,Air laut,4,Semangka,Apel,15,0,Maskulin
+11/11/2022 14:38,Perempuan,Ya,3,Kayu Cendana,2,Rumput - rumputan,2,Lily,2,Popcorn,2,Sungai ganggang,3,Semangka,Apel,14,0,Maskulin
+11/11/2022 14:39,Perempuan,Ya,2,Kayu Gaharu,2,Lada,2,Sedap Malam,4,Permen,2,Sungai ganggang,3,Jeruk,Apel,15,0,Maskulin
+11/11/2022 14:39,Perempuan,Ya,4,Kayu Manis,4,Lada,4,Melati,4,Cokelat,4,Sungai ganggang,4,Lemon,"Strawberry
+",24,1,Feminim
+11/11/2022 14:39,Perempuan,Ya,1,Kayu Cendana,2,Lada,2,Lily,3,Popcorn,3,Air garam,3,Lemon,Apel,14,0,Maskulin
+11/11/2022 14:40,Perempuan,Ya,4,Kayu Cendana,4,Cengkeh,4,Sedap Malam,4,Cokelat,4,Sungai ganggang,4,Semangka,Vanilla,24,1,Feminim
+11/11/2022 14:40,Laki - Laki,Ya,3,Kayu Cendana,3,Rumput - rumputan,3,Lily,3,Cokelat,5,Air laut,3,Lemon,Cool water,20,1,Feminim
+11/11/2022 14:40,Perempuan,Ya,4,Kayu Gaharu,2,Rumput - rumputan,3,Sedap Malam,2,Permen,2,Air laut,3,Semangka,Apel,16,1,Feminim
+11/11/2022 14:40,Perempuan,Ya,2,Kayu Cendana,2,Rumput - rumputan,3,Melati,2,Popcorn,2,Sungai ganggang,3,Semangka,Apel,14,0,Maskulin
+11/11/2022 14:41,Perempuan,Ya,4,Kayu Cendana,2,Lada,2,Lily,3,Permen,2,Air laut,3,Semangka,Apel,16,1,Feminim
+11/11/2022 14:41,Laki - Laki,Ya,3,Kayu Cendana,3,Lada,3,Sedap Malam,3,Popcorn,4,Sungai ganggang,3,Semangka,Light blue,19,1,Feminim
+11/11/2022 14:42,Perempuan,Ya,4,Kayu Manis,4,Cengkeh,4,Sedap Malam,4,Cokelat,4,Sungai ganggang,4,Jeruk,Apel ,24,1,Feminim
+11/11/2022 14:42,Perempuan,Ya,2,Kayu Manis,3,Rumput - rumputan,2,Sedap Malam,3,Permen,3,Air laut,2,Semangka,Apel,15,0,Maskulin
+11/11/2022 14:42,Laki - Laki,Ya,3,Kayu Gaharu,3,Cengkeh,3,Sedap Malam,3,Cokelat,4,Sungai ganggang,3,Semangka,Cool water,19,1,Feminim
+11/11/2022 14:42,Perempuan,Ya,3,Kayu Manis,1,Rumput - rumputan,2,Melati,3,Popcorn,2,Sungai ganggang,5,Semangka,Apel,16,1,Feminim
+11/11/2022 14:43,Perempuan,Ya,4,Kayu Cendana,4,Lada,4,Sedap Malam,4,Cokelat,4,Air laut,3,Lemon,Vanilla,23,1,Feminim
+11/11/2022 14:43,Perempuan,Ya,3,Kayu Cendana,1,Rumput - rumputan,3,Lily,2,Popcorn,2,Air laut,3,Semangka,Apel,14,0,Maskulin
+11/11/2022 14:43,Perempuan,Ya,2,Kayu Cendana,3,Rumput - rumputan,2,Melati,3,Popcorn,4,Air laut,3,Semangka,Apel,17,1,Feminim
+11/11/2022 14:44,Perempuan,Ya,4,Kayu Manis,4,Lada,4,Melati,4,Cokelat,5,Air laut,4,Jeruk,Vanilla ,25,1,Feminim
+11/11/2022 14:44,Perempuan,Ya,1,Kayu Gaharu,4,Cengkeh,4,Sedap Malam,3,Popcorn,3,Air laut,4,Jeruk,Apel,19,1,Feminim
+11/11/2022 14:44,Perempuan,Ya,3,Kayu Gaharu,3,Rumput - rumputan,3,Lily,3,Popcorn,3,Air laut,3,Semangka,Apel,18,1,Feminim
+11/11/2022 14:45,Perempuan,Ya,2,Kayu Manis,3,Lada,2,Lily,3,Cokelat,4,Air laut,4,Semangka,Apel,18,1,Feminim
+11/11/2022 14:45,Perempuan,Ya,4,Kayu Manis,3,Lada,4,Sedap Malam,4,Cokelat,3,Sungai ganggang,,Semangka,Vanilla,18,1,Feminim
+11/11/2022 14:46,Perempuan,Ya,3,Kayu Cendana,2,Lada,2,Lily,4,Cokelat,4,Air garam,4,Semangka,Apel,19,1,Feminim
+11/11/2022 14:46,Perempuan,Ya,4,Kayu Manis,3,Lada,,Sedap Malam,2,Cokelat,4,Air garam,2,Semangka,Apel,15,0,Maskulin
+11/11/2022 14:47,Perempuan,Ya,2,Kayu Manis,2,Rumput - rumputan,2,Melati,2,Popcorn,3,Sungai ganggang,5,Lemon,Apel,16,1,Feminim
+11/11/2022 14:47,Perempuan,Tidak,1,Kayu Gaharu,2,Cengkeh,3,anggrek,3,Cokelat,5,Air laut,4,apel,"vanila, kayu manis, floral",18,1,Feminim
+11/11/2022 14:47,Perempuan,Ya,1,Kayu Cendana,2,Rumput - rumputan,2,Melati,2,Cokelat,1,Sungai ganggang,1,Lemon,Apel,9,0,Maskulin
+11/11/2022 14:48,Perempuan,Ya,2,Kayu Manis,2,Lada,3,Melati,2,Permen,1,Sungai ganggang,1,Lemon,Apel,11,0,Maskulin
+11/11/2022 14:48,Laki - Laki,Ya,3,Kayu Cendana,3,Cengkeh,3,Sedap Malam,3,Popcorn,3,Air laut,3,Lemon,Calandra,18,1,Feminim
+11/11/2022 14:48,Perempuan,Ya,2,Kayu Cendana,2,Rumput - rumputan,2,Lily,3,Permen,3,Sungai ganggang,3,Semangka,Apel,15,0,Maskulin
+11/11/2022 14:49,Perempuan,Ya,4,Kayu Cendana,4,Cengkeh,4,Melati,4,Cokelat,4,Air laut,4,Lemon,Coklat,24,1,Feminim
+11/11/2022 14:49,Perempuan,Ya,1,Kayu Cendana,1,Cengkeh,3,Sedap Malam,4,Popcorn,4,Air garam,4,Lemon,Apel,17,1,Feminim
+11/11/2022 14:49,Perempuan,Ya,3,Kayu Manis,4,Cengkeh,4,Sedap Malam,4,Popcorn,3,Air laut,4,Strawberry,Strawberry,22,1,Feminim
+11/11/2022 14:50,Perempuan,Ya,4,Kayu Cendana,2,Rumput - rumputan,2,Melati,2,Popcorn,2,Sungai ganggang,2,Semangka,Apel,14,0,Maskulin
+11/11/2022 14:50,Laki - Laki,Ya,4,Kayu Cendana,4,Lada,4,Melati,3,Permen,4,Sungai ganggang,4,Lemon,Vanilla,23,1,Feminim
+11/11/2022 14:50,Perempuan,Ya,2,Kayu Manis,2,Rumput - rumputan,2,Melati,2,Popcorn,2,Air laut,2,Semangka,Apel,12,0,Maskulin
+11/11/2022 14:51,Perempuan,Ya,2,Kayu Cendana,2,Lada,3,Lily,2,Popcorn,2,Air laut,4,Semangka,Apel,15,0,Maskulin
+11/11/2022 14:51,Perempuan,Ya,2,Kayu Manis,2,Rumput - rumputan,2,Lily,3,Popcorn,2,Sungai ganggang,2,Semangka,Apel,13,0,Maskulin
+11/11/2022 14:51,Perempuan,Ya,3,Kayu Manis,3,Cengkeh,2,Lily,2,Cokelat,3,Air laut,3,Semangka,vanilla,16,1,Feminim
+11/11/2022 14:52,Perempuan,Ya,2,Kayu Gaharu,2,Rumput - rumputan,,Sedap Malam,4,Cokelat,4,Air garam,4,Semangka,Apel,16,1,Feminim
+11/11/2022 14:52,Perempuan,Ya,4,Kayu Manis,4,Lada,4,Melati,5,Permen,4,Air laut,4,Lemon,Vanilla,25,1,Feminim
+11/11/2022 14:52,Perempuan,Ya,5,Kayu Cendana,3,Rumput - rumputan,5,Sedap Malam,5,Popcorn,2,Sungai ganggang,5,Lemon,Apel dkk,25,1,Feminim
+11/11/2022 14:53,Perempuan,Ya,2,Kayu Manis,2,Cengkeh,3,Lily,4,Cokelat,2,Air laut,3,Semangka,Apel,16,1,Feminim
+11/11/2022 14:53,Perempuan,Ya,4,Kayu Cendana,4,Rumput - rumputan,4,Lily,4,Permen,5,Air laut,4,Semangka,Bubblegum,25,1,Feminim
+11/11/2022 14:53,Perempuan,Ya,1,Kayu Manis,3,Lada,4,Sedap Malam,2,Popcorn,2,Air laut,3,Semangka,Apel,15,0,Maskulin
+11/11/2022 14:54,Laki - Laki,Ya,4,Kayu Manis,3,Rumput - rumputan,5,Melati,5,Cokelat,3,Sungai ganggang,5,Lemon,Vanilla,25,1,Feminim
+11/11/2022 14:54,Perempuan,Ya,2,Kayu Cendana,2,Cengkeh,4,Melati,4,Popcorn,4,Sungai ganggang,4,Jeruk,Cake,20,1,Feminim
+11/11/2022 14:54,Perempuan,Ya,4,Kayu Manis,2,Lada,2,Lily,3,Cokelat,4,Air garam,5,Jeruk,Apel,20,1,Feminim
+11/11/2022 14:54,Perempuan,Ya,4,Kayu Manis,4,Cengkeh,4,Lily,3,Cokelat,4,Air laut,4,Jeruk,Vanilla,23,1,Feminim
+11/11/2022 14:56,Perempuan,Ya,3,Kayu Manis,3,Cengkeh,3,Sedap Malam,3,Popcorn,2,Air laut,5,Jeruk,Apel,19,1,Feminim
+11/11/2022 14:56,Perempuan,Ya,4,Kayu Manis,3,Cengkeh,3,Sedap Malam,3,Popcorn,3,Air garam,5,Jeruk,Apel,21,1,Feminim
+11/11/2022 14:57,Perempuan,Ya,3,Kayu Gaharu,3,Lada,2,Lily,2,Popcorn,4,Air laut,3,Semangka,Apel,17,1,Feminim
+11/11/2022 14:58,Perempuan,Ya,4,Kayu Manis,4,Lada,4,Lily,4,Cokelat,4,Air laut,4,Semangka,Vanilla,24,1,Feminim
+11/11/2022 14:59,Perempuan,Ya,4,Kayu Manis,4,Lada,4,Lily,4,Popcorn,4,Air laut,4,Semangka,Cokelat,24,1,Feminim
+11/11/2022 14:59,Perempuan,Ya,3,Kayu Manis,2,Lada,4,Lily,4,Popcorn,3,Air laut,4,Lemon,Vanilla,20,1,Feminim
+11/11/2022 15:00,Laki - Laki,Ya,3,Kayu Cendana,4,Rumput - rumputan,2,Sedap Malam,3,Cokelat,3,Sungai ganggang,3,Lemon,Coklat ,18,1,Feminim
+11/11/2022 15:00,Perempuan,Ya,3,Kayu Manis,2,Rumput - rumputan,4,Sedap Malam,4,Popcorn,4,Air laut,4,Lemon,Vanilla,21,1,Feminim
+11/11/2022 15:01,Perempuan,Ya,2,Kayu Manis,3,Rumput - rumputan,4,Melati,4,Cokelat,4,Air laut,4,Semangka,Warm woody,21,1,Feminim
+11/11/2022 15:01,Perempuan,Ya,2,Kayu Manis,3,Rumput - rumputan,5,Lily,4,Permen,2,Sungai ganggang,4,Jeruk,Vanilla,20,1,Feminim
+11/11/2022 15:02,Perempuan,Ya,2,Kayu Cendana,4,Lada,4,Sedap Malam,4,Popcorn,5,Air laut,4,Semangka,Lemon,23,1,Feminim
+11/11/2022 15:03,Laki - Laki,Ya,2,Kayu Gaharu,1,Rumput - rumputan,5,Melati,3,Popcorn,2,Sungai ganggang,3,Lemon,apel,16,1,Feminim
+11/11/2022 15:04,Perempuan,Ya,3,Kayu Manis,4,Cengkeh,4,Melati,4,Cokelat,3,Air laut,4,Semangka,Vanilla,22,1,Feminim
+11/11/2022 15:04,Perempuan,Ya,3,Kayu Gaharu,2,Rumput - rumputan,2,Sedap Malam,2,Cokelat,4,Air laut,3,Semangka,Apel,16,1,Feminim
+11/11/2022 15:05,Perempuan,Ya,4,Kayu Cendana,4,Lada,4,Lily,3,Popcorn,4,Air laut,4,Lemon,Vanilla,23,1,Feminim
+11/11/2022 15:05,Laki - Laki,Ya,3,Kayu Manis,3,Cengkeh,3,Lily,3,Permen,4,Sungai ganggang,2,Jeruk,Sage,18,1,Feminim
+11/11/2022 15:05,Perempuan,Ya,4,Kayu Manis,1,Cengkeh,1,Lily,4,Popcorn,3,Air garam,3,Lemon,Melati,16,1,Feminim
+11/11/2022 15:05,Perempuan,Ya,4,Kayu Cendana,2,Lada,4,Lily,4,Popcorn,4,Air laut,4,Semangka,Vanilla,22,1,Feminim
+11/11/2022 15:06,Perempuan,Ya,5,Kayu Gaharu,3,Cengkeh,3,Sedap Malam,3,Popcorn,3,Air garam,4,Jeruk,Scarlet,21,1,Feminim
+11/11/2022 15:06,Perempuan,Ya,4,Kayu Cendana,4,Lada,4,Lily,4,Popcorn,4,Air laut,4,Jeruk,Vanill,24,1,Feminim
+11/11/2022 15:07,Perempuan,Ya,4,Kayu Gaharu,2,Lada,2,Lily,2,Cokelat,4,Air laut,3,Semangka,Pucelle,17,1,Feminim
+11/11/2022 15:07,Perempuan,Ya,4,Kayu Manis,2,Rumput - rumputan,3,Sedap Malam,4,Cokelat,4,Air laut,4,Jeruk,Bebungaan,21,1,Feminim
+11/11/2022 15:07,Perempuan,Ya,4,Kayu Manis,4,Lada,4,Sedap Malam,4,Cokelat,4,Air laut,4,Lemon,Strawberry,24,1,Feminim
+11/11/2022 15:08,Perempuan,Ya,2,Kayu Cendana,1,Rumput - rumputan,1,Melati,1,Permen,1,Sungai ganggang,1,Jeruk,Vanilla ,7,0,Maskulin
+11/11/2022 15:08,Perempuan,Ya,4,Kayu Manis,4,Lada,4,Lily,4,Popcorn,4,Air laut,4,Jeruk,Vanilla,24,1,Feminim
+11/11/2022 15:08,Perempuan,Ya,3,Kayu Cendana,3,Rumput - rumputan,3,Melati,3,Popcorn,3,Air laut,4,Semangka,Melon,19,1,Feminim
+11/11/2022 15:08,Laki - Laki,Ya,3,Kayu Manis,3,Cengkeh,3,Melati,3,Cokelat,4,Air laut,3,Lemon,Vanilla,19,1,Feminim
+11/11/2022 15:12,Perempuan,Ya,3,Kayu Manis,4,Cengkeh,4,Lily,3,Permen,4,Air laut,4,Lemon,Vanilla,22,1,Feminim
+11/11/2022 15:13,Perempuan,Ya,3,Kayu Manis,3,Cengkeh,4,Lily,4,Cokelat,4,Air laut,4,Strawberry,Strawberry,22,1,Feminim
+11/11/2022 15:13,Perempuan,Ya,2,Kayu Manis,3,Rumput - rumputan,3,Melati,3,Popcorn,4,Air laut,4,Jeruk,Vanilla,19,1,Feminim
+11/11/2022 15:15,Perempuan,Ya,4,Kayu Manis,3,Lada,4,Lily,4,Permen,4,Air laut,4,Jeruk,Vanilla,23,1,Feminim
+11/11/2022 15:16,Perempuan,Ya,4,Kayu Manis,2,Lada,4,Sedap Malam,4,Cokelat,4,Air laut,4,Jeruk,Vanilla,22,1,Feminim
+11/11/2022 15:17,Perempuan,Ya,4,Kayu Manis,3,Lada,3,Sedap Malam,4,Cokelat,4,Air laut,4,Lemon,Vanilla,22,1,Feminim
+11/11/2022 15:18,Perempuan,Ya,2,Kayu Manis,4,Cengkeh,4,Lily,4,Popcorn,3,Air laut,4,Lemon,Vanilla,21,1,Feminim
+11/11/2022 15:19,Perempuan,Ya,3,Kayu Manis,3,Rumput - rumputan,3,Lily,3,Permen,3,Air laut,4,Semangka,Vanilla,19,1,Feminim
+11/11/2022 15:19,Perempuan,Ya,4,Kayu Manis,3,Rumput - rumputan,3,Melati,4,Cokelat,4,Air laut,4,Semangka,Cokelat,22,1,Feminim
+11/11/2022 15:31,Perempuan,Ya,3,Kayu Manis,3,Rumput - rumputan,4,Lily,4,Popcorn,3,Air laut,3,Lemon,Calandra,20,1,Feminim
+11/11/2022 15:32,Perempuan,Tidak,2,Kayu Cendana,3,Rumput - rumputan,5,Lily,4,Popcorn,1,Air laut,5,Semangka,,20,1,Feminim
+11/11/2022 15:34,Perempuan,Ya,4,Kayu Manis,4,Cengkeh,5,Melati,2,Cokelat,4,Sungai ganggang,5,Jeruk,"Jeruk, permen",24,1,Feminim
+11/11/2022 15:42,Perempuan,Ya,1,Kayu Manis,2,Rumput - rumputan,5,Lily,2,Permen,1,Air laut,5,Lemon,Magnifique,16,1,Feminim
+11/11/2022 15:50,Laki - Laki,Ya,,,,,,,,,,,3,Jeruk,,3,0,Maskulin
+11/11/2022 16:24,Laki - Laki,Tidak,2,Kayu Manis,4,Rumput - rumputan,5,Melati,3,Cokelat,2,Air laut,1,Semangka,Ã°Å¸ï†Â° kue,17,1,Feminim
+11/11/2022 16:24,Perempuan,Ya,,,,,4,Melati,,,,,,,,4,0,Maskulin
+11/11/2022 16:29,Perempuan,Ya,,,,,,,,,,,,,Amber,0,0,Maskulin
+11/11/2022 16:29,Perempuan,Ya,1,Kayu Manis,4,Cengkeh,2,Lily,3,Cokelat,5,Air laut,3,Semangka,Vanilla. Apel ,18,1,Feminim
+11/11/2022 16:30,Perempuan,Ya,,,,,,,,,,,4,anggur,,4,0,Maskulin
+11/11/2022 16:34,Perempuan,,,,,,,,,,,,,bergamot,,0,0,Maskulin
+11/11/2022 16:37,Laki - Laki,Ya,2,Kayu Manis,,,,,,,,,,,,2,0,Maskulin
+11/11/2022 16:38,Perempuan,Ya,3,Kayu Cendana,3,Lada,5,Floral,3,Cokelat,3,Mata air,5,Jeruk,Floral,22,1,Feminim
+11/11/2022 16:38,Laki - Laki,Ya,,,,,,,,,,,2,Apel,,2,0,Maskulin
+11/11/2022 16:40,Perempuan,Ya,2,Kayu Cendana,3,Rumput - rumputan,2,Melati,3,Popcorn,2,Air garam,1,Semangka,Vanilla,13,0,Maskulin
+11/11/2022 16:40,Laki - Laki,,,,,,,,,,,Air laut,,,,0,0,Maskulin
+11/11/2022 16:42,Laki - Laki,Ya,,,,,,,,,,,,,Coffee,0,0,Maskulin
+11/11/2022 16:45,Perempuan,Ya,,,,,,,,,,,,,orange blossom,0,0,Maskulin
+11/11/2022 16:47,Perempuan,Ya,,,,,5,lavender,,,,,,,,5,0,Maskulin
+11/11/2022 16:48,Perempuan,Ya,,,,,,,,,,,5,Jeruk,,5,0,Maskulin
+11/11/2022 16:49,Perempuan,Ya,3,Kayu Manis,3,Rumput - rumputan,4,Melati,4,Popcorn,4,Air laut,4,Lemon,popcorn,22,1,Feminim
+11/11/2022 16:50,Perempuan,Ya,,,,,,,,,,,,,Red Berries,0,0,Maskulin
+11/11/2022 16:50,Perempuan,Ya,3,Kayu Manis,3,Cengkeh,3,Sedap Malam,4,Popcorn,4,Air laut,4,Jeruk,Vanilla,21,1,Feminim
+11/11/2022 16:51,Perempuan,Ya,4,Kayu Manis,4,Cengkeh,4,Sedap Malam,4,Permen,4,Sungai ganggang,3,Lemon,Cokelat,23,1,Feminim
+11/11/2022 16:51,Perempuan,Ya,2,Kayu Manis,2,Lada,3,Lily,3,Cokelat,3,Air laut,4,Jeruk,Vanilla,17,1,Feminim
+11/11/2022 16:52,Perempuan,Ya,3,Kayu Manis,3,Lada,4,Sedap Malam,4,Popcorn,3,Air laut,4,Semangka,Vanill,21,1,Feminim
+11/11/2022 16:52,Perempuan,Ya,4,Kayu Manis,2,Lada,4,Melati,4,Popcorn,4,Air laut,3,Lemon,Jasmine,21,1,Feminim
+11/11/2022 16:53,Perempuan,,,,,,,,,,,,,,vetiver,0,0,Maskulin
+11/11/2022 16:53,Perempuan,Ya,4,Kayu Manis,3,Lada,4,Melati,4,Popcorn,4,Air laut,4,Semangka,Vanilla,23,1,Feminim
+11/11/2022 16:53,Perempuan,Ya,4,Kayu Manis,4,Cengkeh,4,Melati,4,Cokelat,4,Air laut,4,Lemon,Strawberry,24,1,Feminim
+11/11/2022 16:54,Perempuan,,3,Kayu Manis,3,Rumput - rumputan,3,Melati,3,Permen,3,Sungai ganggang,4,Semangka,lolipop,19,1,Feminim
+11/11/2022 16:54,Perempuan,Ya,4,Kayu Manis,2,Rumput - rumputan,3,Lily,4,Permen,4,Air laut,4,Lemon,Vanilla,21,1,Feminim
+11/11/2022 16:55,Perempuan,Ya,4,Kayu Manis,2,Rumput - rumputan,3,Lily,4,Popcorn,4,Sungai ganggang,3,Lemon,Strawberry,20,1,Feminim
+11/11/2022 16:55,Perempuan,Ya,4,Kayu Cendana,4,Cengkeh,4,Melati,4,Cokelat,4,Air laut,4,Lemon,Vanilla,24,1,Feminim
+11/11/2022 16:56,Perempuan,Ya,4,Kayu Cendana,4,Lada,4,Lily,4,Cokelat,3,Air laut,4,Semangka,Vanilla,23,1,Feminim
+11/11/2022 16:56,Perempuan,Ya,3,Kayu Manis,3,Rumput - rumputan,3,Lily,3,Permen,3,Air laut,3,Jeruk,rose,18,1,Feminim
+11/11/2022 16:56,Perempuan,Ya,,,,,,,,,,,,,white flowers,0,0,Maskulin
+11/11/2022 16:56,Perempuan,Ya,3,Kayu Gaharu,4,Cengkeh,4,Sedap Malam,4,Popcorn,4,Air laut,4,Semangka,Cake,23,1,Feminim
+11/11/2022 16:56,Perempuan,,,,,,,,,,,,,,vanilla,0,0,Maskulin
+11/11/2022 16:57,Perempuan,Ya,4,Kayu Manis,,Lada,4,Melati,4,Permen,4,Air laut,4,Jeruk,Vanill,20,1,Feminim
+11/11/2022 16:57,Perempuan,Ya,3,Kayu Cendana,3,Rumput - rumputan,3,Melati,3,Cokelat,4,Air laut,3,Lemon,cool water,19,1,Feminim
+11/11/2022 16:58,Perempuan,Ya,3,Kayu Manis,4,Cengkeh,4,Melati,3,Popcorn,4,Sungai ganggang,4,Lemon,Vanilla,22,1,Feminim
+11/11/2022 16:58,Perempuan,Ya,,,,,,,,,,,,,white musk,0,0,Maskulin
+11/11/2022 16:58,Laki - Laki,Ya,4,Kayu Gaharu,3,Cengkeh,3,Sedap Malam,3,Cokelat,3,Sungai ganggang,3,Jeruk,sage,19,1,Feminim
+11/11/2022 16:59,Perempuan,Ya,3,Kayu Manis,4,Lada,4,Melati,4,Permen,4,Air laut,3,Lemon,Vanilla,22,1,Feminim
+11/11/2022 16:59,Perempuan,Ya,,,,,,,,,,,,,black currant,0,0,Maskulin
+11/11/2022 17:00,Perempuan,Ya,3,Kayu Manis,2,Rumput - rumputan,2,Melati,2,Popcorn,3,Sungai ganggang,2,Semangka,Vanilla ,14,0,Maskulin
+11/11/2022 17:00,Perempuan,Ya,2,Kayu Cendana,3,Lada,4,Melati,4,Permen,4,Air laut,4,Lemon,Apel,21,1,Feminim
+11/11/2022 17:01,Perempuan,Ya,3,Kayu Gaharu,2,Cengkeh,4,Melati,4,Cokelat,4,Air laut,4,Lemon,Vanilla,21,1,Feminim
+11/11/2022 17:01,Perempuan,Ya,4,Kayu Gaharu,4,Cengkeh,4,Lily,3,Cokelat,4,Sungai ganggang,3,Lemon,Apel,22,1,Feminim
+11/11/2022 17:01,Perempuan,Ya,,,,,3,Melati,,,,,,,,3,0,Maskulin
+11/11/2022 17:01,Perempuan,Ya,5,Kayu Cendana,4,Lada,3,Lily,4,Cokelat,4,Sungai ganggang,4,Semangka,Vanilla ,24,1,Feminim
+11/11/2022 17:02,Perempuan,Ya,3,Kayu Manis,3,Lada,2,Lily,3,Popcorn,2,Air garam,4,Semangka,Vanilla,17,1,Feminim
+11/11/2022 17:02,Perempuan,Ya,4,Kayu Manis,3,Rumput - rumputan,3,Melati,4,Popcorn,4,Air laut,3,Lemon,popcorn,21,1,Feminim
+11/11/2022 17:03,Perempuan,Ya,3,Kayu Cendana,4,Rumput - rumputan,2,Lily,3,Permen,5,Sungai ganggang,3,Lemon,Vanilla ,20,1,Feminim
+11/11/2022 17:04,Perempuan,Ya,3,Kayu Gaharu,2,Lada,4,Melati,4,Permen,5,Sungai ganggang,4,Lemon,Vanilla ,22,1,Feminim
+11/11/2022 17:04,Laki - Laki,Ya,4,Kayu Cendana,3,Cengkeh,2,Sedap Malam,3,Cokelat,3,Sungai ganggang,3,Semangka,coklat,18,1,Feminim
+11/11/2022 17:04,Perempuan,Ya,,,,,3,mawar,,,,,,,,3,0,Maskulin
+11/11/2022 17:04,Perempuan,Ya,2,Kayu Gaharu,2,Rumput - rumputan,3,Lily,3,Permen,4,Sungai ganggang,4,Semangka,Apel,18,1,Feminim
+11/11/2022 17:05,Perempuan,Ya,5,Kayu Manis,3,Cengkeh,3,Lily,3,Permen,4,Sungai ganggang,5,Lemon,Vanilla ,23,1,Feminim
+11/11/2022 17:05,Perempuan,Ya,2,Kayu Cendana,,,,,,,,,,,,2,0,Maskulin
+11/11/2022 17:06,Perempuan,Ya,3,Kayu Manis,3,Rumput - rumputan,3,Melati,3,Permen,3,Sungai ganggang,3,Jeruk,calandra,18,1,Feminim
+11/11/2022 17:06,Perempuan,Ya,4,Kayu Manis,4,Lada,4,Sedap Malam,4,Cokelat,4,Air garam,4,Jeruk,Vanilla ,24,1,Feminim
+11/11/2022 17:07,Perempuan,Ya,4,Kayu Cendana,1,Rumput - rumputan,1,Melati,1,Permen,1,Sungai ganggang,1,Lemon,Vanilla,9,0,Maskulin
+11/11/2022 17:07,Perempuan,Ya,4,Kayu Cendana,1,Rumput - rumputan,1,Lily,1,Permen,2,Sungai ganggang,2,Lemon,Apel,11,0,Maskulin
+11/11/2022 17:08,Perempuan,Ya,4,Kayu Cendana,1,Rumput - rumputan,2,Lily,3,Permen,2,Sungai ganggang,2,Lemon,Vanilla ,14,0,Maskulin
+11/11/2022 17:09,Perempuan,Ya,3,Kayu Cendana,3,Rumput - rumputan,3,Melati,3,Popcorn,3,Air laut,3,Lemon,vanilla,18,1,Feminim
+11/11/2022 17:09,Perempuan,Ya,4,Kayu Cendana,3,Rumput - rumputan,5,Sedap Malam,4,Popcorn,3,Sungai ganggang,3,Semangka,Bubblegum,22,1,Feminim
+11/11/2022 17:09,Laki - Laki,Ya,1,Kayu Manis,1,Rumput - rumputan,1,Sedap Malam,5,Cokelat,4,Air laut,4,Semangka,Vanilla,16,1,Feminim
+11/11/2022 17:09,Perempuan,Ya,3,Kayu Manis,3,Lada,2,Lily,2,Permen,3,Sungai ganggang,3,Semangka,Vanilla ,16,1,Feminim
+11/11/2022 17:10,Laki - Laki,Ya,1,Kayu Cendana,1,Rumput - rumputan,1,Melati,1,Permen,1,Sungai ganggang,1,Lemon,Vanilla,6,0,Maskulin
+11/11/2022 17:10,Perempuan,Ya,2,Kayu Manis,2,Lada,2,Lily,2,Popcorn,2,Air laut,2,Semangka,Vanilla ,12,0,Maskulin
+11/11/2022 17:11,Perempuan,Ya,2,Kayu Cendana,2,Rumput - rumputan,3,Melati,4,Popcorn,3,Sungai ganggang,4,Lemon,Apel,18,1,Feminim
+11/11/2022 17:11,Perempuan,Ya,3,Kayu Manis,2,Lada,2,Lily,3,Cokelat,3,Air laut,3,Jeruk,Jeruk,16,1,Feminim
+11/11/2022 17:11,Perempuan,Ya,3,Kayu Cendana,3,Rumput - rumputan,3,Melati,3,Cokelat,3,Sungai ganggang,3,Lemon,vanilla,18,1,Feminim
+11/11/2022 17:11,Laki - Laki,Ya,1,Kayu Cendana,1,Rumput - rumputan,1,Melati,1,Permen,1,Sungai ganggang,1,Lemon,Vaniila,6,0,Maskulin
+11/11/2022 17:11,Laki - Laki,Ya,3,Kayu Manis,4,Cengkeh,3,Lily,3,Cokelat,4,Air garam,3,Semangka,Mangga,20,1,Feminim
+11/11/2022 17:11,Perempuan,Ya,4,Kayu Cendana,2,Lada,2,Melati,3,Permen,4,Sungai ganggang,4,Lemon,Jeruk,19,1,Feminim
+11/11/2022 17:11,Laki - Laki,Ya,1,Kayu Cendana,1,Rumput - rumputan,1,Melati,1,Permen,1,Sungai ganggang,1,Lemon,Vanilla,6,0,Maskulin
+11/11/2022 17:12,Perempuan,Ya,2,Kayu Gaharu,3,Lada,2,Lily,4,Popcorn,4,Air garam,3,Jeruk,Anggur,18,1,Feminim
+11/11/2022 17:12,Perempuan,Ya,5,Kayu Cendana,3,Lada,3,Melati,4,Popcorn,2,Air laut,4,Lemon,Jeruk,21,1,Feminim
+11/11/2022 17:12,Laki - Laki,Ya,1,Kayu Cendana,1,Rumput - rumputan,1,Melati,1,Permen,1,Sungai ganggang,1,Lemon,Vanilla,6,0,Maskulin
+11/11/2022 17:12,Perempuan,Ya,3,Kayu Cendana,3,Rumput - rumputan,3,Melati,3,Popcorn,3,Air laut,3,Lemon,popcorn,18,1,Feminim
+11/11/2022 17:12,Perempuan,Ya,4,Kayu Gaharu,4,Rumput - rumputan,4,Melati,2,Popcorn,4,Air garam,4,Semangka,Jeruk,22,1,Feminim
+11/11/2022 17:13,Perempuan,Ya,3,Kayu Gaharu,2,Cengkeh,3,Lily,2,Permen,3,Air laut,4,Semangka,Cilla,17,1,Feminim
+11/11/2022 17:13,Laki - Laki,Ya,1,Kayu Cendana,1,Rumput - rumputan,1,Melati,1,Permen,1,Sungai ganggang,1,Lemon,Vanilla,6,0,Maskulin
+11/11/2022 17:13,Perempuan,Ya,4,Kayu Manis,3,Rumput - rumputan,3,Melati,2,Popcorn,2,Air laut,3,Semangka,Jeruk,17,1,Feminim
+11/11/2022 17:13,Laki - Laki,Ya,1,Kayu Cendana,1,Rumput - rumputan,1,Melati,1,Permen,1,Sungai ganggang,1,Lemon,Vanilla,6,0,Maskulin
+11/11/2022 17:13,Perempuan,Ya,3,Kayu Cendana,3,Rumput - rumputan,3,Melati,3,Permen,3,Sungai ganggang,3,Lemon,lolipop,18,1,Feminim
+11/11/2022 17:13,Perempuan,Ya,3,Kayu Manis,4,Cengkeh,2,Lily,3,Cokelat,3,Air laut,3,Semangka,Vanilla,18,1,Feminim
+11/11/2022 17:14,Perempuan,Ya,4,Kayu Cendana,2,Lada,3,Sedap Malam,4,Cokelat,4,Air laut,2,Semangka,Apel,19,1,Feminim
+11/11/2022 17:14,Perempuan,Ya,4,Kayu Manis,4,Lada,4,Lily,4,Permen,4,Air garam,4,Semangka,Jeruk,24,1,Feminim
+11/11/2022 17:14,Laki - Laki,Ya,1,Kayu Cendana,1,Rumput - rumputan,1,Melati,1,Permen,1,Sungai ganggang,1,Lemon,Vanilla,6,0,Maskulin
+11/11/2022 17:14,Laki - Laki,Ya,1,Kayu Cendana,1,Rumput - rumputan,1,Melati,1,Permen,1,Sungai ganggang,1,Lemon,Vanilla,6,0,Maskulin
+11/11/2022 17:14,Perempuan,Ya,3,Kayu Manis,2,Cengkeh,4,Sedap Malam,3,Cokelat,3,Air garam,4,Semangka,Apel,19,1,Feminim
+11/11/2022 17:14,Perempuan,Ya,4,Kayu Manis,2,Lada,3,Sedap Malam,4,Cokelat,4,Air garam,1,Jeruk,Jeruk,18,1,Feminim
+11/11/2022 17:15,Perempuan,Ya,3,Kayu Cendana,3,Lada,3,Melati,3,Popcorn,3,Sungai ganggang,3,Jeruk,apel,18,1,Feminim
+11/11/2022 17:15,Perempuan,Ya,4,Kayu Manis,3,Cengkeh,4,Sedap Malam,4,Popcorn,4,Air laut,3,Lemon,Vanilla,22,1,Feminim
+11/11/2022 17:15,Laki - Laki,Ya,1,Kayu Cendana,1,Rumput - rumputan,1,Melati,1,Permen,1,Sungai ganggang,1,Lemon,Vanilla,6,0,Maskulin
+11/11/2022 17:15,Perempuan,Ya,4,Kayu Manis,3,Lada,2,Sedap Malam,4,Cokelat,2,Air laut,2,Semangka,Vanilla,17,1,Feminim
+11/11/2022 17:15,Perempuan,Ya,2,Kayu Manis,4,Lada,4,Lily,4,Permen,4,Air laut,4,Lemon,Vanilla,22,1,Feminim
+11/11/2022 17:15,Perempuan,Ya,4,Kayu Manis,3,Rumput - rumputan,3,Lily,4,Popcorn,4,Air laut,3,Semangka,Apel ,21,1,Feminim
+11/11/2022 17:15,Perempuan,Ya,4,Kayu Gaharu,3,Cengkeh,4,Sedap Malam,3,Cokelat,3,Air laut,3,Semangka,Apel,20,1,Feminim
+11/11/2022 17:15,Laki - Laki,Ya,1,Kayu Cendana,1,Rumput - rumputan,1,Melati,1,Permen,1,Sungai ganggang,1,Lemon,Vanilla,6,0,Maskulin
+11/11/2022 17:16,Perempuan,Ya,4,Kayu Gaharu,3,Cengkeh,2,Lily,3,Popcorn,3,Air garam,4,Jeruk,Apel,19,1,Feminim
+11/11/2022 17:16,Laki - Laki,Ya,1,Kayu Cendana,1,Rumput - rumputan,1,Melati,1,Permen,1,Sungai ganggang,1,Lemon,Vanilla,6,0,Maskulin
+11/11/2022 17:16,Perempuan,Ya,4,Kayu Manis,4,Cengkeh,3,Lily,4,Cokelat,4,Sungai ganggang,4,Lemon,Vanilla ,23,1,Feminim
+11/11/2022 17:16,Perempuan,Ya,3,Kayu Manis,3,Lada,3,Melati,3,Popcorn,3,Sungai ganggang,3,Lemon,apel,18,1,Feminim
+11/11/2022 17:16,Laki - Laki,Ya,1,Kayu Cendana,1,Rumput - rumputan,1,Melati,1,Permen,1,Sungai ganggang,1,Lemon,Vanila,6,0,Maskulin
+11/11/2022 17:16,Perempuan,Ya,3,Kayu Manis,3,Lada,4,Sedap Malam,3,Cokelat,4,Air garam,3,Jeruk,Anggur,20,1,Feminim
+11/11/2022 17:17,Laki - Laki,Ya,5,Kayu Gaharu,3,Rumput - rumputan,3,Sedap Malam,1,Permen,3,Sungai ganggang,2,Semangka,,17,1,Feminim
+11/11/2022 17:17,Perempuan,Ya,,Kayu Manis,3,Cengkeh,4,Lily,4,Popcorn,4,Air laut,4,Jeruk,Vanilla,19,1,Feminim
+11/11/2022 17:17,Perempuan,Ya,2,Kayu Manis,2,Lada,2,Melati,4,Popcorn,2,Air laut,2,Semangka,Vanilla ,14,0,Maskulin
+11/11/2022 17:17,Laki - Laki,Ya,1,Kayu Cendana,1,Rumput - rumputan,1,Melati,1,Permen,1,Sungai ganggang,1,Lemon,Vanilla,6,0,Maskulin
+11/11/2022 17:17,Perempuan,Ya,4,Kayu Manis,4,Lada,2,Sedap Malam,3,Popcorn,3,Air laut,3,Semangka,Vanilla ,19,1,Feminim
+11/11/2022 17:17,Perempuan,Ya,4,Kayu Manis,3,Cengkeh,4,Lily,4,Permen,4,Air laut,4,Lemon,Vanilla,23,1,Feminim
+11/11/2022 17:18,Laki - Laki,Ya,1,Kayu Cendana,1,Rumput - rumputan,1,Melati,1,Permen,1,Sungai ganggang,1,Lemon,Vanilla,6,0,Maskulin
+11/11/2022 17:18,Perempuan,Ya,3,Kayu Manis,4,Rumput - rumputan,3,Lily,3,Popcorn,3,Air garam,2,Semangka,Anggur,18,1,Feminim
+11/11/2022 17:18,Laki - Laki,Ya,1,Kayu Cendana,1,Rumput - rumputan,1,Melati,1,Permen,1,Sungai ganggang,1,Lemon,Vanila,6,0,Maskulin
+11/11/2022 17:18,Perempuan,Ya,4,Kayu Gaharu,2,Lada,3,Sedap Malam,4,Popcorn,3,Air laut,3,Jeruk,Apel,19,1,Feminim
+11/11/2022 17:19,Laki - Laki,Ya,1,Kayu Cendana,1,Rumput - rumputan,1,Melati,1,Permen,1,Sungai ganggang,1,Lemon,Vanilla,6,0,Maskulin
+11/11/2022 17:19,Laki - Laki,Ya,4,Kayu Manis,4,Rumput - rumputan,4,Sedap Malam,4,Cokelat,4,Air garam,4,Lemon,Vanilla,24,1,Feminim
+11/11/2022 17:19,Perempuan,Ya,3,Kayu Manis,3,Rumput - rumputan,3,Sedap Malam,2,Cokelat,2,Air laut,3,Semangka,Vanilla,16,1,Feminim
+11/11/2022 17:20,Laki - Laki,Ya,1,Kayu Cendana,1,Rumput - rumputan,1,Melati,1,Permen,1,Sungai ganggang,1,Lemon,Vanilla,6,0,Maskulin
+11/11/2022 17:20,Perempuan,Ya,3,Kayu Manis,3,Lada,2,Lily,3,Popcorn,3,Air garam,3,Jeruk,Apel,17,1,Feminim
+11/11/2022 17:20,Perempuan,Ya,2,Kayu Cendana,2,Lada,3,Lily,3,Popcorn,2,Air garam,3,Jeruk,Apel,15,0,Maskulin
+11/11/2022 17:20,Perempuan,Ya,3,Kayu Cendana,3,Rumput - rumputan,3,Melati,3,Popcorn,3,Sungai ganggang,3,Lemon,apel,18,1,Feminim
+11/11/2022 17:20,Laki - Laki,Ya,3,Kayu Cendana,4,Cengkeh,3,Lily,4,Popcorn,4,Air garam,3,Jeruk,Vanilla,21,1,Feminim
+11/11/2022 17:20,Laki - Laki,Ya,1,Kayu Cendana,1,Rumput - rumputan,1,Melati,1,Permen,1,Sungai ganggang,1,Lemon,Vanilla ,6,0,Maskulin
+11/11/2022 17:20,Laki - Laki,Ya,3,Kayu Manis,2,Lada,3,Lily,4,Cokelat,4,Air laut,4,Lemon,Strawberry,20,1,Feminim
+11/11/2022 17:21,Laki - Laki,Ya,1,Kayu Cendana,1,Rumput - rumputan,1,Melati,1,Permen,1,Sungai ganggang,1,Lemon,Vanilla,6,0,Maskulin
+11/11/2022 17:21,Perempuan,Ya,4,Kayu Gaharu,3,Lada,3,Sedap Malam,3,Popcorn,3,Air laut,3,Semangka,Anggur,19,1,Feminim
+11/11/2022 17:21,Perempuan,Ya,5,Kayu Manis,4,Cengkeh,4,Lily,4,Popcorn,2,Sungai ganggang,2,Lemon,Apel,21,1,Feminim
+11/11/2022 17:21,Laki - Laki,Ya,4,Kayu Cendana,4,Rumput - rumputan,4,Sedap Malam,4,Cokelat,4,Sungai ganggang,4,Lemon,Cokelat,24,1,Feminim
+11/11/2022 17:21,Perempuan,Ya,4,Kayu Manis,2,Lada,3,Lily,3,Cokelat,3,Air garam,3,Semangka,Anggur,18,1,Feminim
+11/11/2022 17:21,Laki - Laki,Ya,1,Kayu Cendana,1,Rumput - rumputan,1,Melati,1,Permen,1,Sungai ganggang,1,Lemon,Vanilla,6,0,Maskulin
+11/11/2022 17:22,Laki - Laki,Ya,2,Kayu Manis,2,Lada,2,Lily,3,Popcorn,3,Air garam,3,Semangka,Coffee ,15,0,Maskulin
+11/11/2022 17:22,Perempuan,Ya,2,Kayu Manis,3,Lada,2,Lily,3,Popcorn,4,Air laut,3,Jeruk,Apel,17,1,Feminim
+11/11/2022 17:22,Laki - Laki,Ya,1,Kayu Cendana,1,Rumput - rumputan,1,Melati,1,Permen,1,Sungai ganggang,1,Lemon,Vanilla,6,0,Maskulin
+11/11/2022 17:22,Laki - Laki,Ya,3,Kayu Manis,3,Lada,4,Lily,3,Cokelat,4,Air laut,4,Lemon,Vanilla,21,1,Feminim
+11/11/2022 17:22,Laki - Laki,Ya,3,Kayu Cendana,2,Lada,3,Lily,3,Popcorn,3,Air laut,3,Semangka,Kopi,17,1,Feminim
+11/11/2022 17:22,Perempuan,Ya,2,Kayu Manis,3,Rumput - rumputan,3,Lily,2,Popcorn,3,Air garam,3,Jeruk,Vannilla,16,1,Feminim
+11/11/2022 17:23,Laki - Laki,Ya,1,Kayu Cendana,1,Rumput - rumputan,1,Melati,1,Permen,1,Sungai ganggang,1,Lemon,Vanilla,6,0,Maskulin
+11/11/2022 17:23,Laki - Laki,Ya,4,Kayu Manis,2,Lada,4,Lily,3,Cokelat,4,Sungai ganggang,3,Lemon,Apel,20,1,Feminim
+11/11/2022 17:23,Perempuan,Ya,3,Kayu Manis,3,Rumput - rumputan,3,Melati,4,Popcorn,3,Air laut,3,Lemon,vanilla,19,1,Feminim
+11/11/2022 17:23,Laki - Laki,Ya,4,Kayu Gaharu,3,Lada,3,Sedap Malam,4,Cokelat,4,Air garam,4,Semangka,Cendana,22,1,Feminim
+11/11/2022 17:23,Laki - Laki,Ya,1,Kayu Cendana,1,Rumput - rumputan,1,Melati,1,Permen,1,Sungai ganggang,1,Lemon,Vanilla,6,0,Maskulin
+11/11/2022 17:23,Perempuan,Ya,3,Kayu Manis,3,Cengkeh,3,Melati,3,Popcorn,3,Air garam,4,Jeruk,Vanilla,19,1,Feminim
+11/11/2022 17:24,Laki - Laki,Ya,1,Kayu Cendana,1,Rumput - rumputan,1,Melati,1,Permen,1,Sungai ganggang,2,Lemon,Vanilla,7,0,Maskulin
+11/11/2022 17:24,Perempuan,Ya,2,Kayu Manis,2,Lada,3,Sedap Malam,2,Permen,4,Sungai ganggang,3,Jeruk,Apel,16,1,Feminim
+11/11/2022 17:24,Laki - Laki,Ya,1,Kayu Cendana,1,Rumput - rumputan,1,Melati,1,Permen,1,Sungai ganggang,1,Lemon,Vanilla,6,0,Maskulin
+11/11/2022 17:25,Laki - Laki,Ya,3,Kayu Cendana,3,Lada,3,Sedap Malam,3,Cokelat,3,Air garam,4,Lemon,Kopi,19,1,Feminim
+11/11/2022 17:25,Perempuan,Ya,3,Kayu Manis,3,Rumput - rumputan,3,Melati,3,Permen,3,Sungai ganggang,3,Lemon,vanilla,18,1,Feminim
+11/11/2022 17:25,Laki - Laki,Ya,1,Kayu Cendana,1,Rumput - rumputan,1,Melati,1,Permen,1,Sungai ganggang,1,Lemon,Apel,6,0,Maskulin
+11/11/2022 17:25,Perempuan,Ya,1,Kayu Manis,2,Cengkeh,5,Melati,4,Cokelat,1,Air garam,1,Lemon,,14,0,Maskulin
+11/11/2022 17:25,Laki - Laki,Ya,4,Kayu Manis,3,Rumput - rumputan,4,Lily,4,Popcorn,4,Air garam,3,Semangka,Kopi,22,1,Feminim
+11/11/2022 17:26,Laki - Laki,Ya,1,Kayu Cendana,1,Rumput - rumputan,1,Melati,1,Permen,1,Sungai ganggang,1,Lemon,Apel,6,0,Maskulin
+11/11/2022 17:26,Laki - Laki,Ya,4,Kayu Manis,3,Rumput - rumputan,3,Sedap Malam,4,Popcorn,4,Sungai ganggang,5,Lemon,Kopi,23,1,Feminim
+11/11/2022 17:26,Laki - Laki,Ya,1,Kayu Cendana,1,Rumput - rumputan,1,Lily,2,Permen,5,Air garam,2,Lemon,,12,0,Maskulin
+11/11/2022 17:26,Laki - Laki,Ya,1,Kayu Cendana,1,Rumput - rumputan,1,Melati,1,Permen,1,Sungai ganggang,1,Lemon,Apel,6,0,Maskulin
+11/11/2022 17:27,Laki - Laki,Ya,1,Kayu Cendana,1,Rumput - rumputan,1,Melati,1,Permen,1,Sungai ganggang,1,Lemon,Apel,6,0,Maskulin
+11/11/2022 17:27,Laki - Laki,Ya,1,Kayu Cendana,2,Rumput - rumputan,3,Lily,4,Cokelat,5,Air garam,3,Jeruk,,18,1,Feminim
+11/11/2022 17:27,Laki - Laki,Ya,4,Kayu Cendana,3,Rumput - rumputan,2,Sedap Malam,4,Cokelat,4,Sungai ganggang,4,Semangka,Kopi,21,1,Feminim
+11/11/2022 17:27,Laki - Laki,Ya,3,Kayu Manis,3,Rumput - rumputan,3,Melati,4,Cokelat,4,Sungai ganggang,4,Lemon,Coffee,21,1,Feminim
+11/11/2022 17:27,Laki - Laki,Ya,1,Kayu Cendana,1,Rumput - rumputan,1,Melati,1,Permen,1,Sungai ganggang,1,Lemon,Vanila,6,0,Maskulin
+11/11/2022 17:27,Laki - Laki,Ya,2,Kayu Manis,2,Cengkeh,2,Sedap Malam,2,Cokelat,4,Air garam,2,Semangka,,14,0,Maskulin
+11/11/2022 17:28,Laki - Laki,Ya,4,Kayu Manis,3,Rumput - rumputan,3,Melati,3,Permen,4,Air laut,2,Semangka,Kopi,19,1,Feminim
+11/11/2022 17:28,Laki - Laki,Ya,1,Kayu Cendana,1,Rumput - rumputan,1,Melati,1,Permen,1,Sungai ganggang,1,Lemon,Apel,6,0,Maskulin
+11/11/2022 17:28,Laki - Laki,Ya,2,Kayu Cendana,3,Lada,2,Sedap Malam,4,Permen,4,Air laut,4,Lemon,Coffee,19,1,Feminim
+11/11/2022 17:29,Laki - Laki,Ya,4,Kayu Cendana,4,Rumput - rumputan,4,Sedap Malam,4,Cokelat,4,Sungai ganggang,4,Semangka,Kopi,24,1,Feminim
+11/11/2022 17:29,Laki - Laki,Ya,1,Kayu Cendana,1,Rumput - rumputan,1,Melati,1,Permen,1,Sungai ganggang,1,Lemon,Apel,6,0,Maskulin
+11/11/2022 17:29,Laki - Laki,Ya,4,Kayu Cendana,3,Cengkeh,3,Lily,3,Popcorn,3,Air laut,3,Lemon,Coffee,19,1,Feminim
+11/11/2022 17:29,Laki - Laki,Ya,4,Kayu Cendana,4,Lada,4,Sedap Malam,5,Permen,3,Air laut,3,Semangka,Kopi,23,1,Feminim
+11/11/2022 17:30,Laki - Laki,Ya,1,Kayu Cendana,1,Rumput - rumputan,1,Melati,1,Permen,1,Sungai ganggang,1,Lemon,Apel,6,0,Maskulin
+11/11/2022 17:30,Laki - Laki,Ya,4,Kayu Cendana,3,Cengkeh,4,Lily,3,Cokelat,4,Air laut,4,Jeruk,Aqua,22,1,Feminim
+11/11/2022 17:30,Laki - Laki,Ya,1,Kayu Cendana,1,Rumput - rumputan,1,Melati,1,Permen,1,Sungai ganggang,1,Lemon,Apel,6,0,Maskulin
+11/11/2022 17:31,Laki - Laki,Ya,3,Kayu Manis,5,Lada,3,Lily,3,Cokelat,3,Air laut,3,Jeruk,Aqua,20,1,Feminim
+11/11/2022 17:31,Laki - Laki,Ya,3,Kayu Gaharu,3,Lada,3,Lily,3,Cokelat,3,Air garam,3,Semangka,Aqua,18,1,Feminim
+11/11/2022 17:31,Laki - Laki,Ya,1,Kayu Cendana,1,Rumput - rumputan,1,Melati,1,Permen,1,Sungai ganggang,1,Lemon,Apel,6,0,Maskulin
+11/11/2022 17:31,Laki - Laki,Ya,2,Kayu Manis,2,Cengkeh,4,Melati,3,Permen,4,Sungai ganggang,4,Lemon,Citrus,19,1,Feminim
+11/11/2022 17:31,Laki - Laki,Ya,3,Kayu Manis,3,Rumput - rumputan,3,Melati,4,Popcorn,3,Air laut,3,Semangka,Aqua,19,1,Feminim
+11/11/2022 17:31,Laki - Laki,Ya,3,Kayu Manis,3,Lada,2,Lily,2,Popcorn,2,Sungai ganggang,2,Semangka,Kopi,14,0,Maskulin
+11/11/2022 17:32,Laki - Laki,Ya,1,Kayu Cendana,1,Rumput - rumputan,1,Melati,1,Permen,1,Sungai ganggang,1,Lemon,Apel,6,0,Maskulin
+11/11/2022 17:32,Laki - Laki,Ya,3,Kayu Cendana,3,Cengkeh,2,Lily,3,Cokelat,3,Air laut,3,Lemon,Aqua,17,1,Feminim
+11/11/2022 17:32,Laki - Laki,Ya,3,Kayu Manis,4,Rumput - rumputan,3,Melati,3,Popcorn,3,Sungai ganggang,3,Semangka,Aqua,19,1,Feminim
+11/11/2022 17:32,Laki - Laki,Ya,3,Kayu Manis,3,Cengkeh,3,Lily,3,Cokelat,3,Air garam,3,Jeruk,Aqua,18,1,Feminim
+11/11/2022 17:33,Laki - Laki,Ya,1,Kayu Cendana,1,Rumput - rumputan,1,Melati,1,Permen,1,Sungai ganggang,1,Lemon,Apel,6,0,Maskulin
+11/11/2022 17:33,Laki - Laki,Ya,3,Kayu Manis,2,Rumput - rumputan,2,Melati,2,Cokelat,3,Air laut,3,Semangka,Kopi,15,0,Maskulin
+11/11/2022 17:33,Laki - Laki,Ya,3,Kayu Cendana,3,Cengkeh,3,Sedap Malam,4,Cokelat,3,Air laut,3,Lemon,Aqua,19,1,Feminim
+11/11/2022 17:33,Laki - Laki,Ya,3,Kayu Manis,2,Rumput - rumputan,3,Melati,2,Popcorn,2,Sungai ganggang,2,Lemon,Aqua ,14,0,Maskulin
+11/11/2022 17:33,Laki - Laki,Ya,3,Kayu Gaharu,2,Cengkeh,2,Sedap Malam,3,Popcorn,3,Air garam,3,Semangka,Kopi,16,1,Feminim
+11/11/2022 17:33,Laki - Laki,Ya,1,Kayu Cendana,1,Rumput - rumputan,1,Melati,1,Permen,1,Sungai ganggang,1,Lemon,Vanilla,6,0,Maskulin
+11/11/2022 17:34,Laki - Laki,Ya,3,Kayu Cendana,3,Cengkeh,3,Sedap Malam,3,Popcorn,3,Air laut,4,Jeruk,Aqua,19,1,Feminim
+11/11/2022 17:34,Laki - Laki,Ya,3,Kayu Gaharu,2,Rumput - rumputan,3,Lily,3,Popcorn,3,Air laut,4,Semangka,Aqua,18,1,Feminim
+11/11/2022 17:34,Laki - Laki,Ya,1,Kayu Cendana,1,Rumput - rumputan,1,Melati,1,Permen,1,Sungai ganggang,1,Lemon,Apel,6,0,Maskulin
+11/11/2022 17:34,Laki - Laki,Ya,3,Kayu Cendana,2,Rumput - rumputan,2,Melati,2,Popcorn,4,Air laut,2,Semangka,Aqua ,15,0,Maskulin
+11/11/2022 17:34,Laki - Laki,Ya,1,Kayu Cendana,1,Rumput - rumputan,1,Melati,1,Permen,1,Sungai ganggang,1,Lemon,Apel,6,0,Maskulin
+11/11/2022 17:34,Laki - Laki,Ya,4,Kayu Gaharu,2,Cengkeh,3,Lily,2,Cokelat,3,Air laut,2,Jeruk,Kopi,16,1,Feminim
+11/11/2022 17:35,Laki - Laki,Ya,4,Kayu Gaharu,3,Lada,2,Lily,3,Cokelat,3,Air laut,3,Jeruk,Aqua ,18,1,Feminim
+11/11/2022 17:35,Laki - Laki,Ya,1,Kayu Cendana,1,Rumput - rumputan,1,Melati,1,Permen,1,Sungai ganggang,1,Lemon,Vanilla,6,0,Maskulin
+11/11/2022 17:35,Laki - Laki,Ya,4,Kayu Manis,3,Lada,3,Sedap Malam,3,Popcorn,2,Air garam,2,Jeruk,Mint,17,1,Feminim
+11/11/2022 17:35,Laki - Laki,Ya,3,Kayu Cendana,3,Cengkeh,3,Sedap Malam,4,Cokelat,4,Air laut,4,Lemon,Mint,21,1,Feminim
+11/11/2022 17:35,Laki - Laki,Ya,1,Kayu Cendana,1,Rumput - rumputan,1,Melati,1,Permen,1,Sungai ganggang,1,Lemon,Aqua,6,0,Maskulin
+11/11/2022 17:35,Laki - Laki,Ya,3,Kayu Cendana,3,Cengkeh,3,Sedap Malam,3,Popcorn,3,Air garam,3,Jeruk,Mint,18,1,Feminim
+11/11/2022 17:35,Laki - Laki,Ya,4,Kayu Manis,3,Rumput - rumputan,3,Lily,3,Popcorn,3,Air laut,3,Semangka,Aqua ,19,1,Feminim
+11/11/2022 17:36,Laki - Laki,Ya,4,Kayu Gaharu,3,Cengkeh,2,Melati,2,Popcorn,3,Air garam,3,Jeruk,Lavender,17,1,Feminim
+11/11/2022 17:36,Laki - Laki,Ya,3,Kayu Cendana,4,Cengkeh,4,Sedap Malam,4,Cokelat,4,Air laut,4,Lemon,Aqua,23,1,Feminim
+11/11/2022 17:36,Laki - Laki,Ya,4,Kayu Cendana,3,Lada,3,Lily,3,Cokelat,4,Air laut,3,Semangka,Aqua ,20,1,Feminim
+11/11/2022 17:36,Laki - Laki,Ya,3,Kayu Cendana,4,Lada,3,Lily,3,Cokelat,3,Air garam,4,Jeruk,Mint,20,1,Feminim
+11/11/2022 17:36,Laki - Laki,Ya,1,Kayu Cendana,1,Rumput - rumputan,1,Melati,1,Permen,1,Sungai ganggang,1,Lemon,Vanilla,6,0,Maskulin
+11/11/2022 17:37,Laki - Laki,Ya,4,Kayu Manis,2,Rumput - rumputan,3,Lily,3,Popcorn,4,Air garam,4,Semangka,Aqua ,20,1,Feminim
+11/11/2022 17:37,Laki - Laki,Ya,4,Kayu Cendana,2,Cengkeh,3,Lily,2,Cokelat,3,Air laut,2,Semangka,Mint,16,1,Feminim
+11/11/2022 17:37,Laki - Laki,Ya,1,Kayu Cendana,1,Rumput - rumputan,1,Melati,1,Permen,1,Sungai ganggang,1,Lemon,Kopi,6,0,Maskulin
+11/11/2022 17:37,Laki - Laki,Ya,4,Kayu Manis,3,Lada,3,Lily,4,Popcorn,4,Air laut,2,Jeruk,Aqua,20,1,Feminim
+11/11/2022 17:37,Laki - Laki,Ya,1,Kayu Cendana,1,Rumput - rumputan,1,Melati,1,Permen,1,Sungai ganggang,1,Lemon,Kopi,6,0,Maskulin
+11/11/2022 17:37,Laki - Laki,Ya,4,Kayu Gaharu,3,Lada,4,Sedap Malam,2,Cokelat,2,Air laut,3,Semangka,Lavender,18,1,Feminim
+11/11/2022 17:37,Laki - Laki,Ya,3,Kayu Cendana,4,Cengkeh,3,Sedap Malam,4,Cokelat,4,Sungai ganggang,3,Lemon,Aqua,21,1,Feminim
+11/11/2022 17:37,Laki - Laki,Ya,3,Kayu Cendana,3,Rumput - rumputan,3,Sedap Malam,3,Cokelat,3,Sungai ganggang,3,Lemon,mint,18,1,Feminim
+11/11/2022 17:38,Laki - Laki,Ya,3,Kayu Manis,2,Cengkeh,4,Lily,4,Cokelat,4,Air garam,4,Semangka,Lavender ,21,1,Feminim
+11/11/2022 17:38,Laki - Laki,Ya,4,Kayu Cendana,3,Lada,3,Sedap Malam,3,Cokelat,3,Air laut,3,Semangka,Mint,19,1,Feminim
+11/11/2022 17:38,Laki - Laki,Ya,1,Kayu Cendana,1,Rumput - rumputan,1,Melati,1,Permen,1,Sungai ganggang,1,Lemon,Kopi,6,0,Maskulin
+11/11/2022 17:38,Laki - Laki,Ya,4,Kayu Cendana,3,Cengkeh,4,Sedap Malam,4,Cokelat,4,Air laut,4,Lemon,Aqua,23,1,Feminim
+11/11/2022 17:38,Laki - Laki,Ya,3,Kayu Gaharu,3,Lada,3,Sedap Malam,4,Popcorn,4,Air laut,4,Jeruk,Aqua ,21,1,Feminim
+11/11/2022 17:38,Laki - Laki,Ya,3,Kayu Gaharu,3,Lada,3,Lily,2,Popcorn,3,Air laut,3,Jeruk,Mint,17,1,Feminim
+11/11/2022 17:39,Laki - Laki,Ya,1,Kayu Cendana,1,Rumput - rumputan,1,Melati,1,Permen,1,Sungai ganggang,1,Lemon,Vanilla,6,0,Maskulin
+11/11/2022 17:39,Laki - Laki,Ya,3,Kayu Cendana,4,Cengkeh,4,Sedap Malam,4,Cokelat,4,Air laut,4,Lemon,Aqua,23,1,Feminim
+11/11/2022 17:39,,Ya,4,Kayu Manis,3,Lada,3,Melati,2,Cokelat,4,Air laut,3,Jeruk,Lavender ,19,1,Feminim
+11/11/2022 17:39,Laki - Laki,Ya,4,Kayu Manis,2,Lada,3,Melati,2,Cokelat,3,Air laut,2,Semangka,Lavender,16,1,Feminim
+11/11/2022 17:39,Laki - Laki,Ya,1,Kayu Manis,,,,,,,,,,,,1,0,Maskulin
+11/11/2022 17:39,Laki - Laki,Ya,1,Kayu Cendana,1,Rumput - rumputan,1,Melati,1,Permen,1,Sungai ganggang,1,Lemon,Aqua,6,0,Maskulin
+11/11/2022 17:39,Laki - Laki,Ya,3,Kayu Manis,2,Lada,4,Sedap Malam,4,Permen,4,Air garam,2,Semangka,Lavender ,19,1,Feminim
+11/11/2022 17:39,Laki - Laki,Ya,3,Kayu Manis,3,Cengkeh,2,Lily,2,Popcorn,3,Air laut,2,Jeruk,Mint,15,0,Maskulin
+11/11/2022 17:40,Laki - Laki,Ya,4,Kayu Manis,3,Cengkeh,4,Melati,3,Permen,3,Sungai ganggang,4,Lemon,Lavender ,21,1,Feminim
+11/11/2022 17:40,Laki - Laki,Ya,4,Kayu Cendana,4,Cengkeh,4,Sedap Malam,4,Popcorn,4,Air laut,4,Lemon,Aqua,24,1,Feminim
+11/11/2022 17:40,Laki - Laki,Ya,3,Kayu Manis,2,Cengkeh,2,Melati,3,Cokelat,4,Air laut,4,Lemon,Lavender,18,1,Feminim
+11/11/2022 17:40,Laki - Laki,Ya,,,,,,,3,Permen,,,,,,3,0,Maskulin
+11/11/2022 17:41,Laki - Laki,Ya,4,Kayu Cendana,4,Cengkeh,4,Sedap Malam,4,Cokelat,4,Air laut,4,Lemon,Aqua,24,1,Feminim
+11/11/2022 17:41,Laki - Laki,Ya,3,Kayu Gaharu,2,Lada,2,Sedap Malam,3,Popcorn,2,Sungai ganggang,1,Jeruk,Mint,13,0,Maskulin
+11/11/2022 17:41,Laki - Laki,Ya,1,Kayu Cendana,1,Rumput - rumputan,1,Melati,1,Permen,1,Sungai ganggang,1,Lemon,Vanilla,6,0,Maskulin
+11/11/2022 17:41,Laki - Laki,Ya,2,Kayu Cendana,2,Lada,4,Sedap Malam,3,Popcorn,3,Air laut,3,Semangka,Lavender ,17,1,Feminim
+11/11/2022 17:41,Laki - Laki,Ya,3,Kayu Cendana,3,Lada,3,Sedap Malam,4,Cokelat,3,Air garam,3,Semangka,Lavender,19,1,Feminim
+11/11/2022 17:41,Laki - Laki,Ya,,,,,,,,,,,5,Jeruk,,5,0,Maskulin
+11/11/2022 17:41,Laki - Laki,Ya,3,Kayu Manis,3,Lada,3,Melati,4,Popcorn,3,Air laut,4,Jeruk,Aqua,20,1,Feminim
+11/11/2022 17:41,Laki - Laki,Ya,1,Kayu Cendana,1,Rumput - rumputan,1,Melati,1,Permen,1,Sungai ganggang,1,Lemon,Aqua,6,0,Maskulin
+11/11/2022 17:41,Laki - Laki,Ya,3,Kayu Cendana,3,Cengkeh,4,Sedap Malam,4,Permen,4,Air laut,4,Jeruk,Mint,22,1,Feminim
+11/11/2022 17:42,Laki - Laki,Ya,,,,,,,,Cokelat,,,,,,0,0,Maskulin
+11/11/2022 17:42,Laki - Laki,Ya,3,Kayu Gaharu,2,Cengkeh,2,Lily,3,Popcorn,3,Air laut,3,Semangka,Mint,16,1,Feminim
+11/11/2022 17:42,Laki - Laki,Ya,3,Kayu Gaharu,3,Rumput - rumputan,3,Sedap Malam,3,Cokelat,3,Air laut,3,Lemon,mint,18,1,Feminim
+11/11/2022 17:42,Laki - Laki,Ya,1,Kayu Cendana,1,Rumput - rumputan,1,Melati,1,Permen,1,Sungai ganggang,1,Lemon,Vanilla,6,0,Maskulin
+11/11/2022 17:42,Laki - Laki,Ya,2,Kayu Manis,3,Lada,3,Melati,3,Cokelat,4,Air laut,3,Semangka,Lavender ,18,1,Feminim
+11/11/2022 17:42,Laki - Laki,,,,,,,,,,,,3,Lemon,,3,0,Maskulin
+11/11/2022 17:42,Laki - Laki,Ya,3,Kayu Cendana,4,Cengkeh,4,Melati,4,Cokelat,4,Air laut,4,Lemon,Mint,23,1,Feminim
+11/11/2022 17:42,Laki - Laki,Ya,3,,3,Cengkeh,4,Sedap Malam,4,Cokelat,4,,3,Semangka,Aqua,21,1,Feminim
+11/11/2022 17:43,Laki - Laki,Ya,3,Kayu Manis,2,Lada,2,Lily,3,Popcorn,2,Air laut,3,Semangka,Mint,15,0,Maskulin
+11/11/2022 17:43,Laki - Laki,Ya,1,Kayu Cendana,1,Rumput - rumputan,1,Melati,1,Permen,1,Sungai ganggang,1,Lemon,Vanilla,6,0,Maskulin
+11/11/2022 17:43,Laki - Laki,Ya,2,Kayu Cendana,,,,,,,,,,,,2,0,Maskulin
+11/11/2022 17:43,Laki - Laki,,,,,,,,,,,,,,"apel
+",0,0,Maskulin
+11/11/2022 17:43,Laki - Laki,Ya,1,Kayu Cendana,1,Rumput - rumputan,1,Melati,1,Permen,1,Sungai ganggang,1,Lemon,Vanila,6,0,Maskulin
+11/11/2022 17:43,Laki - Laki,Ya,3,Kayu Cendana,4,Cengkeh,2,Melati,3,Cokelat,3,Sungai ganggang,4,Lemon,Mint,19,1,Feminim
+11/11/2022 17:43,Laki - Laki,Ya,4,Kayu Cendana,2,Rumput - rumputan,4,Melati,3,Popcorn,4,Sungai ganggang,4,Semangka,Aqua,21,1,Feminim
+11/11/2022 17:43,Laki - Laki,Ya,3,Kayu Manis,3,Lada,3,Sedap Malam,2,Popcorn,3,Air laut,2,Jeruk,Lavender,16,1,Feminim
+11/11/2022 17:44,Laki - Laki,Ya,1,Kayu Cendana,1,Rumput - rumputan,1,Melati,1,Permen,1,Sungai ganggang,1,Lemon,Kopi,6,0,Maskulin
+11/11/2022 17:44,Laki - Laki,Ya,,,,,,,,,3,Air laut,,,,3,0,Maskulin
+11/11/2022 17:44,Laki - Laki,Ya,3,Kayu Gaharu,3,Cengkeh,3,Lily,2,Popcorn,4,Air garam,3,Semangka,Mint,18,1,Feminim
+11/11/2022 17:44,Laki - Laki,Ya,4,Kayu Manis,4,Lada,3,Melati,4,Permen,2,Air laut,4,Jeruk,Aqua ,21,1,Feminim
+11/11/2022 17:44,Laki - Laki,Ya,3,Kayu Cendana,3,Cengkeh,3,Sedap Malam,4,Cokelat,4,Air laut,3,Lemon,Mint,20,1,Feminim
+11/11/2022 17:44,Laki - Laki,Ya,2,Kayu Gaharu,,,,,,,,,,,,2,0,Maskulin
+11/11/2022 17:44,Laki - Laki,Ya,1,Kayu Cendana,1,Rumput - rumputan,1,Melati,1,Permen,1,Sungai ganggang,1,Lemon,Vanilla,6,0,Maskulin
+11/11/2022 17:44,Laki - Laki,Ya,3,Kayu Cendana,4,Cengkeh,3,Lily,2,Cokelat,3,Air laut,3,Jeruk,Lavender,18,1,Feminim
+11/11/2022 17:44,Laki - Laki,Ya,4,Kayu Manis,,,,,,,,,,,,4,0,Maskulin
+11/11/2022 17:44,Laki - Laki,Ya,3,Kayu Manis,3,Rumput - rumputan,3,Lily,2,Permen,2,Air laut,4,Lemon,Lavender ,17,1,Feminim
+11/11/2022 17:45,Laki - Laki,Ya,1,Kayu Cendana,1,Rumput - rumputan,1,Melati,1,Permen,1,Sungai ganggang,1,Lemon,Kopi,6,0,Maskulin
+11/11/2022 17:45,Laki - Laki,,,,,,,,,,,,,,Apel,0,0,Maskulin
+11/11/2022 17:45,Laki - Laki,Ya,4,Kayu Manis,4,Cengkeh,2,Lily,3,Popcorn,3,Air laut,3,Semangka,Mint,19,1,Feminim
+11/11/2022 17:45,Laki - Laki,Ya,4,Kayu Cendana,3,Cengkeh,3,Lily,3,Permen,3,Air laut,4,Lemon,Mint,20,1,Feminim
+11/11/2022 17:45,Laki - Laki,Ya,2,Kayu Manis,2,Rumput - rumputan,3,Melati,3,Popcorn,3,Air laut,4,Semangka,Lavender ,17,1,Feminim
+11/11/2022 17:45,Laki - Laki,Ya,1,Kayu Cendana,1,Rumput - rumputan,1,Melati,1,Permen,1,Sungai ganggang,1,Lemon,Kopi,6,0,Maskulin
+11/11/2022 17:45,Laki - Laki,Ya,2,Kayu Cendana,,,,,,,,,,,,2,0,Maskulin
+11/11/2022 17:46,Laki - Laki,Ya,4,Kayu Manis,3,Lada,3,Lily,2,Popcorn,3,Air garam,3,Semangka,Lavender,18,1,Feminim
+11/11/2022 17:46,Laki - Laki,Ya,1,Kayu Cendana,1,Rumput - rumputan,1,Melati,1,Permen,1,Sungai ganggang,1,Lemon,Vanilla,6,0,Maskulin
+11/11/2022 17:46,Laki - Laki,Ya,3,Kayu Cendana,3,Lada,2,Lily,2,Permen,4,Air garam,4,Lemon,Aqua,18,1,Feminim
+11/11/2022 17:46,Laki - Laki,Ya,4,Kayu Cendana,3,Cengkeh,3,Sedap Malam,4,Cokelat,3,Air laut,4,Lemon,Mint,21,1,Feminim
+11/11/2022 17:46,Laki - Laki,Ya,3,Kayu Gaharu,3,Lada,3,Sedap Malam,3,Popcorn,3,Air laut,3,Jeruk,Mint,18,1,Feminim
+11/11/2022 17:46,Laki - Laki,Ya,1,Kayu Cendana,1,Rumput - rumputan,1,Melati,1,Permen,1,Sungai ganggang,1,Lemon,Vanilla,6,0,Maskulin
+11/11/2022 17:46,Laki - Laki,Ya,,,,,,,,,,,4,Lemon,,4,0,Maskulin
+11/11/2022 17:47,Laki - Laki,Ya,4,Kayu Cendana,3,Cengkeh,3,Sedap Malam,2,Cokelat,3,Air laut,3,Jeruk,Mint,18,1,Feminim
+11/11/2022 17:47,Laki - Laki,Ya,3,Kayu Cendana,2,Rumput - rumputan,2,Lily,2,Popcorn,2,Air laut,3,Lemon,Aqua,14,0,Maskulin
+11/11/2022 17:47,Laki - Laki,Ya,1,Kayu Cendana,1,Rumput - rumputan,1,Melati,1,Permen,1,Sungai ganggang,1,Lemon,Kopi,6,0,Maskulin
+11/11/2022 17:47,Laki - Laki,Ya,3,Kayu Cendana,3,Lada,3,Lily,2,Popcorn,3,Air garam,2,Lemon,Lavender,16,1,Feminim
+11/11/2022 17:47,Laki - Laki,Tidak,3,Kayu Cendana,3,Lada,3,Lily,3,Popcorn,3,Air laut,3,Lemon,Tidak pakai,18,1,Feminim
+11/11/2022 17:48,Laki - Laki,Ya,3,Kayu Manis,4,Lada,1,Lily,2,Permen,2,Sungai ganggang,2,Semangka,Lavender ,14,0,Maskulin
+11/11/2022 17:48,Laki - Laki,Ya,3,Kayu Cendana,3,Cengkeh,3,Sedap Malam,3,Cokelat,3,Air laut,3,Lemon,Mint,18,1,Feminim
+11/11/2022 17:48,Laki - Laki,Ya,1,Kayu Cendana,1,Rumput - rumputan,1,Melati,1,Permen,1,Sungai ganggang,1,Lemon,Apel,6,0,Maskulin
+11/11/2022 17:48,Laki - Laki,Ya,3,Kayu Manis,2,Cengkeh,3,Sedap Malam,4,Cokelat,3,Air laut,3,Jeruk,Lavender,18,1,Feminim
+11/11/2022 17:48,Laki - Laki,Ya,1,Kayu Cendana,1,Rumput - rumputan,1,Melati,1,Permen,1,Sungai ganggang,1,Lemon,Valender,6,0,Maskulin
+11/11/2022 17:49,Laki - Laki,Ya,4,Kayu Cendana,2,Rumput - rumputan,2,Lily,3,Popcorn,4,Air laut,2,Semangka,Lavender ,17,1,Feminim
+11/11/2022 17:49,Laki - Laki,Ya,,,2,Cengkeh,,,,,,,,,,2,0,Maskulin
+11/11/2022 17:49,Laki - Laki,Ya,1,Kayu Cendana,1,Rumput - rumputan,1,Melati,1,Permen,1,Sungai ganggang,1,Lemon,Lavender,6,0,Maskulin
+11/11/2022 17:49,Laki - Laki,Ya,3,Kayu Cendana,3,Cengkeh,4,Lily,3,Popcorn,3,Air laut,4,Jeruk,Lavender,20,1,Feminim
+11/11/2022 17:50,Laki - Laki,Ya,3,Kayu Manis,2,Rumput - rumputan,4,Melati,4,Cokelat,4,Air laut,2,Jeruk,Aqua,19,1,Feminim
+11/11/2022 17:50,Laki - Laki,Ya,1,Kayu Cendana,1,Rumput - rumputan,1,Melati,1,Permen,1,Sungai ganggang,1,Lemon,Valender,6,0,Maskulin
+11/11/2022 17:50,Laki - Laki,Ya,3,Kayu Gaharu,3,Cengkeh,3,Sedap Malam,2,Popcorn,4,Air garam,4,Semangka,Mint,19,1,Feminim
+11/11/2022 17:50,Laki - Laki,Ya,3,Kayu Cendana,3,Lada,3,Sedap Malam,4,Permen,4,Air laut,3,Lemon,Mint,20,1,Feminim
+11/11/2022 17:50,Laki - Laki,Ya,1,Kayu Cendana,1,Rumput - rumputan,1,Melati,1,Permen,1,Sungai ganggang,1,Lemon,Lavender,6,0,Maskulin
+11/11/2022 17:51,Laki - Laki,Ya,3,Kayu Manis,2,Cengkeh,2,Lily,1,Permen,3,Air garam,3,Jeruk,Mint,14,0,Maskulin
+11/11/2022 17:51,Laki - Laki,Ya,4,Kayu Cendana,3,Rumput - rumputan,4,Melati,4,Permen,4,Sungai ganggang,4,Lemon,Aqua,23,1,Feminim
+11/11/2022 17:51,Laki - Laki,Ya,1,Kayu Cendana,1,Rumput - rumputan,1,Melati,1,Permen,1,Sungai ganggang,1,Lemon,Lavender,6,0,Maskulin
+11/11/2022 17:51,Laki - Laki,Ya,3,Kayu Manis,3,Cengkeh,2,Lily,2,Popcorn,3,Air garam,2,Jeruk,Mint,15,0,Maskulin
+11/11/2022 17:51,Laki - Laki,Ya,4,Kayu Manis,4,Cengkeh,4,Sedap Malam,4,Permen,4,Sungai ganggang,4,Semangka,Aqua,24,1,Feminim
+11/11/2022 17:52,Laki - Laki,Ya,3,Kayu Manis,3,Rumput - rumputan,3,Lily,4,Popcorn,3,Air garam,4,Jeruk,Mint,20,1,Feminim
+11/11/2022 17:52,Laki - Laki,Ya,1,Kayu Cendana,1,Rumput - rumputan,1,Melati,1,Permen,1,Sungai ganggang,1,Lemon,Lavender,6,0,Maskulin
+11/11/2022 17:52,Laki - Laki,Ya,4,Kayu Manis,3,Cengkeh,3,Lily,3,Popcorn,4,Air laut,4,Jeruk,Mint,21,1,Feminim
+11/11/2022 17:52,Laki - Laki,Ya,1,Kayu Cendana,1,Rumput - rumputan,1,Melati,1,Permen,1,Sungai ganggang,1,Lemon,Lavender ,6,0,Maskulin
+11/11/2022 17:52,Laki - Laki,Ya,4,Kayu Manis,2,Cengkeh,4,Sedap Malam,3,Cokelat,4,Air garam,3,Semangka,Kopi,20,1,Feminim
+11/11/2022 17:53,Laki - Laki,Ya,3,Kayu Manis,2,Lada,3,Melati,2,Popcorn,2,Air garam,3,Semangka,Mint,15,0,Maskulin
+11/11/2022 17:53,Laki - Laki,Ya,1,Kayu Cendana,1,Rumput - rumputan,1,Melati,1,Permen,1,Sungai ganggang,1,Lemon,Lavender,6,0,Maskulin
+11/11/2022 17:53,Laki - Laki,Ya,4,Kayu Manis,2,Lada,3,Melati,4,Permen,2,Air laut,4,Semangka,Lavender ,19,1,Feminim
+11/11/2022 17:53,Laki - Laki,Ya,1,Kayu Cendana,1,Rumput - rumputan,1,Melati,1,Permen,1,Sungai ganggang,1,Lemon,Lavender,6,0,Maskulin
+11/11/2022 17:53,Laki - Laki,Ya,2,Kayu Gaharu,3,Lada,3,Lily,2,Popcorn,3,Air garam,3,Lemon,Mint,16,1,Feminim
+11/11/2022 17:54,Laki - Laki,Ya,4,Kayu Manis,2,Lada,2,Melati,3,Popcorn,4,Sungai ganggang,4,Jeruk,Aqua,19,1,Feminim
+11/11/2022 17:54,Laki - Laki,Ya,3,Kayu Manis,4,Rumput - rumputan,4,Lily,3,Popcorn,4,Sungai ganggang,3,Lemon,Aqua,21,1,Feminim
+11/11/2022 17:54,Laki - Laki,Ya,1,Kayu Cendana,1,Rumput - rumputan,1,Melati,1,Permen,1,Sungai ganggang,1,Lemon,Kopi,6,0,Maskulin
+11/11/2022 17:55,Laki - Laki,Ya,3,Kayu Manis,3,Rumput - rumputan,2,Melati,3,Popcorn,2,Air laut,3,Lemon,Lavender ,16,1,Feminim
+11/11/2022 17:55,Laki - Laki,Ya,1,Kayu Cendana,1,Rumput - rumputan,1,Melati,1,Permen,1,Sungai ganggang,1,Lemon,Lavender,6,0,Maskulin
+11/11/2022 17:56,Laki - Laki,Ya,1,Kayu Cendana,1,Rumput - rumputan,1,Melati,1,Permen,1,Sungai ganggang,1,Lemon,Lavender,6,0,Maskulin
+11/11/2022 17:56,Laki - Laki,Ya,1,Kayu Cendana,1,Rumput - rumputan,1,Melati,1,Permen,1,Sungai ganggang,1,Lemon,Lavender,6,0,Maskulin
+11/11/2022 17:57,Laki - Laki,Ya,1,Kayu Cendana,1,Rumput - rumputan,1,Melati,1,Permen,1,Sungai ganggang,1,Lemon,Lavender,6,0,Maskulin
+11/11/2022 17:57,Laki - Laki,Ya,1,Kayu Cendana,1,Rumput - rumputan,1,Melati,1,Permen,1,Sungai ganggang,1,Lemon,Lavender,6,0,Maskulin
+11/11/2022 17:58,Laki - Laki,,,,,,,,,,,,,,Apel,0,0,Maskulin
+11/11/2022 17:58,Laki - Laki,Ya,1,Kayu Cendana,1,Rumput - rumputan,1,Melati,1,Permen,1,Sungai ganggang,1,Lemon,Lavender,6,0,Maskulin
+11/11/2022 17:59,Laki - Laki,Ya,1,Kayu Cendana,1,Rumput - rumputan,1,Melati,1,Permen,1,Sungai ganggang,1,Lemon,Lavender ,6,0,Maskulin
+11/11/2022 17:59,Laki - Laki,Ya,1,Kayu Cendana,1,Rumput - rumputan,1,Melati,1,Permen,1,Sungai ganggang,1,Lemon,Lavender,6,0,Maskulin
+11/11/2022 17:59,Laki - Laki,Ya,3,Kayu Manis,3,Rumput - rumputan,3,Lily,4,Cokelat,4,Air laut,4,Semangka,Aqua,21,1,Feminim
+11/11/2022 18:00,Laki - Laki,Ya,1,Kayu Cendana,1,Rumput - rumputan,1,Melati,1,Permen,1,Sungai ganggang,1,Lemon,Lavender,6,0,Maskulin
+11/11/2022 18:00,Laki - Laki,Ya,4,Kayu Gaharu,3,Lada,3,Melati,4,Popcorn,4,Air laut,3,Semangka,Aqua,21,1,Feminim
+11/11/2022 18:00,Laki - Laki,Ya,1,Kayu Cendana,1,Rumput - rumputan,1,Melati,1,Permen,1,Sungai ganggang,1,Lemon,Lavender,6,0,Maskulin
+11/11/2022 18:01,Laki - Laki,Ya,3,Kayu Manis,2,Lada,2,Lily,4,Popcorn,4,Air garam,2,Jeruk,Lavender ,17,1,Feminim
+11/11/2022 18:01,Laki - Laki,Ya,1,Kayu Cendana,1,Rumput - rumputan,1,Melati,1,Permen,1,Sungai ganggang,1,Lemon,"
+Mit",6,0,Maskulin
+11/11/2022 18:01,Laki - Laki,Ya,4,Kayu Gaharu,3,Rumput - rumputan,4,Melati,3,Popcorn,3,Air laut,2,Semangka,Lavender ,19,1,Feminim
+11/11/2022 18:01,Laki - Laki,Ya,1,Kayu Cendana,1,Rumput - rumputan,1,Melati,1,Permen,1,Sungai ganggang,1,Lemon,Lavender,6,0,Maskulin
+11/11/2022 18:02,Laki - Laki,Ya,1,Kayu Cendana,1,Rumput - rumputan,1,Melati,1,Permen,1,Sungai ganggang,1,Lemon,Mit,6,0,Maskulin
+11/11/2022 18:02,Laki - Laki,Ya,1,Kayu Cendana,1,Rumput - rumputan,1,Melati,1,Permen,1,Sungai ganggang,1,Lemon,Mit,6,0,Maskulin
+11/11/2022 18:03,Laki - Laki,,,,3,Lada,,,,,,,,,,3,0,Maskulin
+11/11/2022 18:03,Laki - Laki,Ya,1,Kayu Cendana,1,Rumput - rumputan,1,Melati,1,Permen,1,Sungai ganggang,1,Lemon,Mit,6,0,Maskulin
+11/11/2022 18:03,Perempuan,Ya,1,Kayu Cendana,1,Rumput - rumputan,1,Melati,1,Permen,1,Sungai ganggang,1,Lemon,Lavender,6,0,Maskulin
+11/11/2022 18:04,Laki - Laki,Ya,1,Kayu Cendana,1,Rumput - rumputan,1,Melati,1,Permen,1,Sungai ganggang,1,Lemon,Lavender,6,0,Maskulin
+11/11/2022 18:04,Laki - Laki,Ya,1,Kayu Cendana,1,Rumput - rumputan,1,Melati,1,Permen,1,Sungai ganggang,1,Lemon,Lavender,6,0,Maskulin
+11/11/2022 18:05,Laki - Laki,Ya,3,Kayu Cendana,1,Rumput - rumputan,1,Melati,1,Permen,1,Sungai ganggang,1,Lemon,Mit,8,0,Maskulin
+11/11/2022 18:05,Laki - Laki,Ya,1,Kayu Cendana,1,Rumput - rumputan,1,Melati,1,Permen,1,Sungai ganggang,1,Lemon,Lavender,6,0,Maskulin
+11/11/2022 18:06,Laki - Laki,Ya,1,Kayu Cendana,1,Rumput - rumputan,1,Melati,1,Permen,1,Sungai ganggang,1,Lemon,Lavender,6,0,Maskulin
+11/11/2022 18:06,Laki - Laki,Ya,1,Kayu Cendana,1,Rumput - rumputan,1,Melati,1,Permen,1,Sungai ganggang,1,Lemon,Lavender,6,0,Maskulin
+11/11/2022 18:07,Laki - Laki,Ya,1,Kayu Cendana,1,Rumput - rumputan,1,Melati,1,Permen,1,Sungai ganggang,1,Lemon,Kopi,6,0,Maskulin
+11/11/2022 18:07,Laki - Laki,Ya,1,Kayu Cendana,1,Rumput - rumputan,1,Melati,1,Permen,1,Sungai ganggang,1,Lemon,Mit,6,0,Maskulin
+11/11/2022 18:08,Laki - Laki,Ya,1,Kayu Cendana,1,Rumput - rumputan,1,Melati,1,Permen,1,Sungai ganggang,1,Lemon,Lavender,6,0,Maskulin
+11/11/2022 18:08,Laki - Laki,Ya,1,Kayu Cendana,1,Rumput - rumputan,1,Melati,1,Permen,1,Sungai ganggang,1,Lemon,Lavender,6,0,Maskulin
+11/11/2022 18:09,Laki - Laki,Ya,1,Kayu Cendana,1,Rumput - rumputan,1,Melati,1,Permen,1,Sungai ganggang,1,Lemon,Lavender,6,0,Maskulin
+11/11/2022 18:10,Laki - Laki,Ya,1,Kayu Cendana,1,Rumput - rumputan,1,Melati,1,Permen,1,Sungai ganggang,1,Lemon,Mit,6,0,Maskulin
+11/11/2022 18:10,Laki - Laki,Ya,1,Kayu Cendana,1,Rumput - rumputan,1,Melati,1,Permen,1,Sungai ganggang,1,Lemon,Lavender,6,0,Maskulin
+11/11/2022 18:11,Laki - Laki,Ya,1,Kayu Cendana,1,Rumput - rumputan,1,Melati,1,Permen,1,Sungai ganggang,1,Lemon,Lavender,6,0,Maskulin
+11/11/2022 18:11,Laki - Laki,Ya,1,Kayu Cendana,1,Rumput - rumputan,1,Melati,1,Permen,1,Sungai ganggang,1,Lemon,Valender,6,0,Maskulin
+11/11/2022 18:12,Laki - Laki,Ya,1,Kayu Cendana,1,Rumput - rumputan,1,Melati,1,Permen,1,Sungai ganggang,1,Lemon,Min,6,0,Maskulin
+11/11/2022 18:14,Laki - Laki,Ya,1,Kayu Cendana,1,Rumput - rumputan,1,Melati,1,Permen,1,Sungai ganggang,1,Lemon,Lavender,6,0,Maskulin
+11/11/2022 18:15,Laki - Laki,Ya,1,Kayu Cendana,1,Rumput - rumputan,1,Melati,1,Permen,1,Sungai ganggang,1,Lemon,Mint,6,0,Maskulin
+11/11/2022 18:15,Laki - Laki,Ya,1,Kayu Cendana,1,Rumput - rumputan,1,Melati,1,Permen,1,Sungai ganggang,1,Lemon,Mint,6,0,Maskulin
+11/11/2022 18:15,Laki - Laki,Ya,1,Kayu Cendana,1,Rumput - rumputan,1,Melati,1,Permen,1,Sungai ganggang,1,Lemon,Mint,6,0,Maskulin
+11/11/2022 18:48,Laki - Laki,Ya,3,Kayu Cendana,,,,,,,,,,,,3,0,Maskulin
+11/11/2022 18:49,Laki - Laki,,,,,,,,4,Cokelat,,,,,,4,0,Maskulin
+11/11/2022 18:49,Laki - Laki,Ya,,,,,,,,,,,,,Coffe ,0,0,Maskulin
+11/11/2022 18:50,Laki - Laki,Ya,,,,,,,,,,,,,Mint,0,0,Maskulin
+11/11/2022 18:53,Laki - Laki,Ya,,,,,,,,,,,3,Lemon,,3,0,Maskulin
+11/11/2022 18:54,Laki - Laki,Ya,,,,,,,,,,,3,Jeruk,,3,0,Maskulin
+11/11/2022 18:55,Laki - Laki,Ya,,,4,Cengkeh,,,,,,,,,,4,0,Maskulin
+11/11/2022 18:56,Laki - Laki,Ya,,,,,,,,,3,Air garam,,,,3,0,Maskulin
+11/11/2022 18:57,Laki - Laki,Ya,,,,,,,2,Permen,,,,,,2,0,Maskulin
+,,,,,,,,,,,,,,,,0,0,Maskulin
+,,,,,,,,,,,,,,,,15.45839874,,
